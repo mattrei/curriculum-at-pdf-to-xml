@@ -2,6 +2,11 @@
 Convert Austrian Curriculums from PDF to XML models
 
 ## XML Model
+* Metadata
+* Jahr
+* Schultyp
+* URL
+
 * Schulstufe
 * Thema
 * Beschreibung
