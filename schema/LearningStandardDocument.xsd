@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="https://www.vroodl.es/datamodel/1.x"
+	elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="https://www.vroodl.es/datamodel/1.x">
+
+	<xsd:include schemaLocation="Common.xsd"></xsd:include>
+	<xsd:annotation>
+		<xsd:documentation>
+			A curriculum standards document or the like published by a
+			national, state, district, school site, professional
+			association or other interested party. The
+			LearningStandardDocument reflects an expectation of student
+			work.
+		</xsd:documentation>
+	</xsd:annotation>
+
+
+
+
+	<xsd:complexType name="TitleListType">
+		<xsd:sequence minOccurs="0" maxOccurs="unbounded">
+			<xsd:element name="Title" type="xsd:normalizedString"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="CurriculumStructuresRefIdListType">
+		<xsd:sequence>
+			<xsd:element name="CurriculumStructureRefId"
+				type="IdRefType" minOccurs="0" maxOccurs="unbounded">
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+
+
+
+	<xsd:complexType name="CopyrightType">
+		<xsd:sequence>
+			<xsd:element name="Holder" type="xsd:normalizedString"></xsd:element>
+			<xsd:element name="Date" type="xsd:date"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+
+	<xsd:complexType name="LearningObjectiveListType">
+		<xsd:sequence>
+			<xsd:element name="LearningObjective" type="xsd:string"
+				minOccurs="0" maxOccurs="unbounded">
+				<xsd:annotation>
+					<xsd:documentation>
+						"Teach students about the basics of cellular
+						structure and lifecycle."
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+
+
+
+	<xsd:complexType name="LearningStandardItemRefIdListType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Associated LearningStandardItem objects.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="LearningStandardItemRefId"
+				type="IdRefType">
+				<xsd:annotation>
+					<xsd:documentation>
+						Link to associated LearningStandardItem object.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+	<xsd:complexType name="CurriculumStructureType">
+		<xsd:annotation>
+			<xsd:documentation>
+				An object designed to contain instructional objects such
+				as units, lessons, activities, and assessments—or other
+				containers—joined together under a particular topic
+				and/or duration.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element name="RefId" type="RefIdType"></xsd:element>
+			<xsd:element name="Titles" type="TitleListType"
+				minOccurs="0" maxOccurs="unbounded">
+			</xsd:element>
+			<xsd:element name="Description" type="xsd:string"
+				nillable="true" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation>
+						Description of this curriculum object
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="LearningObjectives"
+				type="LearningObjectiveListType" minOccurs="0">
+			</xsd:element>
+			<xsd:element name="LearningStandards"
+				type="LearningStandardItemRefIdListType" nillable="true"
+				minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation>
+						Associated learning standards.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="CurriculumHierarchyLevel"
+				type="CurriculumStructureCurriculumHierarchyLevelType" minOccurs="0"
+				maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation>
+						Describes the position of this object in the
+						curriculum hierarchy.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="GradeLevel" type="GradeLevelType"
+				minOccurs="0" maxOccurs="1">
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="CurriculumStructureCollectionType">
+		<xsd:sequence>
+			<xsd:element name="CurriculumStructure"
+				type="CurriculumStructureType" minOccurs="0"
+				maxOccurs="unbounded">
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType
+		name="CurriculumStructureCurriculumHierarchyLevelType">
+		<xsd:sequence>
+			<xsd:element name="Number" type="xsd:unsignedInt"
+				minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>
+						Integer assigned to each hierarchical level
+						within the CurriculumStructure tree. The top
+						level is 1.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Name" type="xsd:normalizedString"
+				minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>
+						Used to describe what role this is serving in
+						the structure. Some curriculum objects describe
+						their levels in terms of programs of study,
+						courses and units. Others use other terms. This
+						attribute names the level of the item.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="Description" type="xsd:string"
+				minOccurs="0">
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="LearningStandardDocumentType">
+		<xsd:sequence>
+			<xsd:element name="RefId" type="RefIdType"></xsd:element>
+			<xsd:element name="RefURI" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>
+						A URI that establishes uniqueness of the object
+						instance.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="LocalAdoptionDate" type="xsd:date">
+				<xsd:annotation>
+					<xsd:documentation>
+						The date the local organization adopted this
+						standard document
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="EndOfLifeDate" type="xsd:date"></xsd:element>
+
+
+			<xsd:element name="Description" type="xsd:string"></xsd:element>
+
+			<xsd:element name="YearCreated" type="xsd:gYear"></xsd:element>
+
+			<xsd:element name="Source" type="xsd:token"></xsd:element>
+
+			<xsd:element name="Copyright" type="CopyrightType"></xsd:element>
+
+			<xsd:element name="DocumentDate" type="xsd:date">
+				<xsd:annotation>
+					<xsd:documentation>
+						The date the current status was achieved.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="DocumentStatus" type="xsd:token"></xsd:element>
+
+			<xsd:element name="OrganizationContactPoint"
+				type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>
+						A brief description of how to contact the
+						organization maintaining the standards. It could
+						be a phone number, email address, or URL.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="Title" type="xsd:normalizedString"></xsd:element>
+			<xsd:element name="GradeLevels" type="GradeLevelsType">
+				<xsd:annotation>
+					<xsd:documentation>
+						A common element used to specify the collection
+						of grade levels supported.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="CurriculumStructures"
+				type="CurriculumStructureCollectionType">
+			</xsd:element>
+
+			<xsd:element name="Reference" type="ReferenceType"></xsd:element>
+
+			<xsd:element name="DocumentVersion" type="xsd:token">
+				<xsd:annotation>
+					<xsd:documentation>
+						Identifies the version of the document that this
+						object instance represents. Note that new
+						versions of documents must generate new RefIds
+						and therefore a new object instance. This
+						element is immutable in that once the object has
+						been published with a value (other than blank)
+						it must never be changed.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+			<xsd:element name="ExtendedElements" type="ExtendedElementsType" minOccurs="0" maxOccurs="1">
+				<xsd:annotation>
+					<xsd:documentation>A name/value pair, the name being contained in the Name attribute, the value being the element content.</xsd:documentation></xsd:annotation></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:element name="LearningStandardDocument"
+		type="LearningStandardDocumentType">
+	</xsd:element>
+
+
+
+</xsd:schema>

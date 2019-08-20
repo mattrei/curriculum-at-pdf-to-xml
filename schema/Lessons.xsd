@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="https://www.vroodl.es/datamodel/1.x"
+	elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="https://www.vroodl.es/datamodel/1.x">
+	<xsd:include schemaLocation="LearningStandardDocument.xsd"></xsd:include>
+	
+	    <xsd:element name="Lessons" type="LessonCollectionType"></xsd:element>
+    
+    <xsd:complexType name="LessonType">
+    	<xsd:sequence>
+    		<xsd:element name="Title" type="xsd:normalizedString"
+    			minOccurs="0" maxOccurs="1">
+    		</xsd:element>
+    		<xsd:element name="Description" type="xsd:string"
+    			minOccurs="0" maxOccurs="1">
+    		</xsd:element>
+    		<xsd:element name="LearningObjectives"
+    			type="LearningObjectiveListType" minOccurs="0" maxOccurs="1">
+    		</xsd:element>
+    		<xsd:element name="SubjectArea" type="SubjectAreasType"
+    			minOccurs="0" maxOccurs="1">
+    		</xsd:element>
+    		<xsd:element name="CurriculumStructures"
+    			type="CurriculumStructuresRefIdListType" minOccurs="0"
+    			maxOccurs="1">
+    		</xsd:element>
+    		<xsd:element name="ExtendedElements" type="ExtendedElementsType" minOccurs="0" maxOccurs="1"></xsd:element>
+    	</xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="LessonCollectionType">
+    	<xsd:sequence>
+    		<xsd:element name="Lesson" type="LessonType" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+    	</xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:element name="Lesson" type="LessonType"></xsd:element>
+</xsd:schema>

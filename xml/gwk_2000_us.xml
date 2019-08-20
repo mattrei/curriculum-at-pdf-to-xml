@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curriculum>
+	<metadata>
+		<publication>
+			<year>2000</year>
+		</publication>
+		<authors></authors>
+		<title>Geographie und Wirtschaftskunde</title>
+		<description>Lehrplan 2000 der HS/NMS und AHS-Unterstufe</description>
+		<language>de-AT</language>
+		<resources>
+			<pdf>https://www3.lernplattform.schule.at/gwk/pluginfile.php/129/mod_resource/content/2/lp_hs_geographie_877.pdf</pdf>
+		</resources>
+	</metadata>
+	<content>
+		<level>
+			<title>1. und 2. Klasse</title>
+			<ordinals>
+				<ordinal>1</ordinal>
+				<ordinal>2</ordinal>
+			</ordinals>
+			<description>
+				<![CDATA[Darstellung menschlichen Lebens und Wirtschaftens; Aufzeigen von Gleichartigkeiten und Unterschieden. Grundlegende Einsicht, dass Gesellschaft und Wirtschaft räumlich strukturiert sind. 
+Beispiele aus Österreich und Europa sollen in der 1. und 2. Klasse vertreten sein, jeder außereuropäische Erdteil wenigstens einmal in einer der beiden Klassen.]]>
+			</description>
+			<topics>
+				<topic>
+					<title>Ein Blick auf die Erde</title>
+					<description>
+						<![CDATA[Erwerben grundlegender Informationen über die Erde mit Globus, Karten, Atlas und Bildern.]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Wie Menschen in unterschiedlichen Gebieten der Erde leben und wirtschaften</title>
+					<description>
+						<![CDATA[Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.
+Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich verändernde Techniken und Produktionsweisen anwenden.
+Erkennen, wie Menschen mit Naturgefahren umgehen.]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Wie Menschen Rohstoffe und Energie gewinnen und nutzen</title>
+					<description>
+						<![CDATA[Erkennen, wie Rohstoffe und Nutzenergie gewonnen und zu den Verbraucherinnen und Verbrauchern gebracht werden. 
+Einsehen, dass Rohstoffe und Energieträger auf der Erde ungleichmäßig verteilt und begrenzt vorhanden sind und dass ihre Nutzung oft die Umwelt belastet.]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Ein erster Überblick</title>
+					<description>
+						<![CDATA[Regionale bzw. zonale Einordnung der im Unterricht durchgenommenen Beispiele.
+Erkennen der Grundstrukturen einfacher Wirtschaftsformen: von der agrarisch dominierten Selbstversorgerwirtschaft zu arbeitsteiligen Systemen.
+Erfassen, dass es auf der Erde eine Regelhaftigkeit in der Anordnung klimatischer Erscheinungen gibt.]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Leben in Ballungsräumen</title>
+					<description>
+						<![CDATA[Das Leben in Ballungsräumen und peripheren Räumen vergleichen.
+    		            Erfassen von Merkmalen, Aufgaben und Umweltproblemen in Ballungsräumen. Erkennen der Vernetzung zwischen Kernstadt und Umland.
+    		            Erwerben grundlegender Informationen über Städte mit Hilfe kartographischer Darstellungen.
+    		            ]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Gütererzeugung in gewerblichen und industriellen Betrieben</title>
+					<description>
+						<![CDATA[Erkennen, dass unterschiedliche Gründe die Standortwahl für einen Betrieb beeinflussen.
+Erkennen, wie Güter in Betrieben verschiedener Art und Größe in unterschiedlichen Organisationsformen erzeugt werden.
+Erfassen der Auswirkungen von Betrieben und Produktionsprozessen auf die Umwelt.
+Verstehen, dass verschiedene Tätigkeiten in der Wirtschaft unterschiedliche Kenntnisse und Fähigkeiten voraussetzen.]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Der Dienstleistungsbereich</title>
+					<description>
+						<![CDATA[Erkennen der Vielfalt des Dienstleistungsbereichs sowie Verständnis für seine zunehmende Bedeutung im Wirtschaftsleben. 
+Erfassen der wirtschaftlichen Bedeutung von Freizeit und Tourismus.
+Erwerben grundlegender Informationen und Fertigkeiten für die richtige Wahl von Verkehrsmitteln.
+Erfassen, wie Regionen durch Verkehrseinrichtungen unterschiedlich erschlossen und belastet werden.]]>
+					</description>
+				</topic>
+				<topic>
+					<title>Die Erde als Lebens- und Wirtschaftsraum des Menschen – eine Zusammenschau</title>
+					<description>
+						<![CDATA[Zusammenfassende Einordnung der bisher behandelten Beispiele in Staaten, Landschaftsgürtel und Wirtschaftszonen der Erde.
+Erkennen, dass die Verteilung der Bevölkerung auf der Erde ungleichmäßig ist und dass es Gunst- und Ungunsträume gibt.]]>
+					</description>
+				</topic>
+			</topics>
+		</level>
+	</content>
+</curriculum>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="https://www.vroodl.es/datamodel/1.x" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://www.vroodl.es/datamodel/1.x">
+
+	<xsd:simpleType name="GUIDType">
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="[0-9A-Fa-f\-]{32,36}"></xsd:pattern>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="RefIdType">
+		
+		<xsd:restriction base="GUIDType"></xsd:restriction>
+        <xsd:annotation>
+			<xsd:documentation>
+				An object or element identifier.
+			</xsd:documentation>
+		</xsd:annotation>
+    </xsd:simpleType>
+
+	<xsd:simpleType name="IdRefType">
+		
+		<xsd:restriction base="RefIdType"></xsd:restriction>
+        <xsd:annotation>
+			<xsd:documentation>
+				A reference to a RefId.
+			</xsd:documentation>
+		</xsd:annotation>
+    </xsd:simpleType>
+
+
+
+	<xsd:complexType name="ExtendedElementType">
+			<xsd:annotation>
+			<xsd:documentation>
+				A name/value pair, the name being contained in the Name
+				attribute, the value being the element content.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexContent>
+	      <xsd:extension base="ExtendedContentType">
+	        <xsd:attribute name="Name" use="required" type="xsd:normalizedString">
+	          <xsd:annotation>
+	            <xsd:appinfo>
+	              <sifChar>M</sifChar>
+	              <privacyRating />
+	              <cedsId />
+	              <cedsURL />
+	            </xsd:appinfo>
+	            <xsd:documentation>The name of the extended element. As it is possible that names for extended elements may collide from agent to agent, it is recommended that the names of extended elements be configurable in an agent, or that agents use URIs for the names of extended elements.</xsd:documentation>
+	          </xsd:annotation>
+	        </xsd:attribute>
+	      </xsd:extension>
+	    </xsd:complexContent>
+
+	</xsd:complexType>
+
+	<xsd:complexType name="ExtendedContentType">
+		<xsd:sequence>
+			<xsd:any minOccurs="0" maxOccurs="unbounded"></xsd:any>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	
+	<xsd:complexType name="SubjectAreaType">
+		<xsd:sequence>
+			<xsd:element name="Code" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>
+						The subject area code (i.e., the first two
+						digits of the course classification code).
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+	<xsd:complexType name="SubjectAreasType">
+		<xsd:sequence>
+			<xsd:element name="SubjectArea" type="SubjectAreaType"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+		<xsd:complexType name="GradeLevelsType">
+		<xsd:sequence>
+			<xsd:element name="GradeLevel" type="GradeLevelType" minOccurs="0" maxOccurs="unbounded">
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+
+	<xsd:complexType name="GradeLevelType">
+		<xsd:sequence>
+			<xsd:element name="Code" type="xsd:token">
+				<xsd:annotation>
+					<xsd:documentation>
+						https://ceds.ed.gov/element/000036
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	
+	<xsd:complexType name="ReferenceType">
+        <xsd:annotation>
+        	<xsd:documentation>References external content via a URL.</xsd:documentation></xsd:annotation>
+        <xsd:sequence>
+			<xsd:element name="MIMEType" type="xsd:token"></xsd:element>
+			<xsd:element name="Description" type="xsd:token"></xsd:element>
+			<xsd:element name="URL" type="xsd:anyURI"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+
+
+	<xsd:complexType name="ExtendedElementsType">
+		<xsd:sequence>
+			<xsd:element name="ExtendedElement" type="ExtendedElementType" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+</xsd:schema>
