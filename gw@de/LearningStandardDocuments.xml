@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandardDocuments
+	xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<LearningStandardDocument
+		RefId="ae4990cd6db34ab8a4f5ebed475823f8">
+		<Title>Geographie und Wirtschaftskunde</Title>
+		<Source>Bildungsministerium</Source>
+		<Organizations>
+			<Organization>Bildungsministerium</Organization>
+		</Organizations>
+		<OrganizationContactPoint>
+	</OrganizationContactPoint>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<DocumentStatus></DocumentStatus>
+		<Copyright>
+			<Date>2019-08-20</Date>
+			<Holder>Matthias Treitler</Holder>
+		</Copyright>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>1</Code>
+			</GradeLevel>
+			<GradeLevel>
+				<Code>2</Code>
+			</GradeLevel>
+			<GradeLevel>
+				<Code>3</Code>
+			</GradeLevel>
+			<GradeLevel>
+				<Code>4</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+	</LearningStandardDocument>
+	<LearningStandardDocument
+		RefId="04d1a2b3ee884afaa7ccca211d372da6">
+		<Title>Geographie und Wirtschaftskunde</Title>
+		<Source>Bildungsministerium</Source>
+		<Organizations>
+			<Organization>Bildungsministerium</Organization>
+		</Organizations>
+		<OrganizationContactPoint></OrganizationContactPoint>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<DocumentStatus></DocumentStatus>
+		<Copyright>
+			<Date>2019-08-20</Date>
+			<Holder>Matthias Treitler</Holder>
+		</Copyright>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+			<GradeLevel>
+				<Code>6</Code>
+			</GradeLevel>
+			<GradeLevel>
+				<Code>7</Code>
+			</GradeLevel>
+			<GradeLevel>
+				<Code>8</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+	</LearningStandardDocument>
+
+</LearningStandardDocuments>

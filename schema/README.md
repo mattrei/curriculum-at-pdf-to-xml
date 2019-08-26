@@ -1,7 +1,7 @@
 Problem: CurriculumStructure is only contained by the Lesson
 LearningStandardDocument: references (not contains) to top most LearningStandardItem: then each Item links to its predecessor and document
 Lesson: links to one or more LearningStandardItems 
-
+```
 <ContentCatalog RefId="359D75101AD0A9D7A8C3DAD0A85103A2" xml:lang="en">
   <ContentObject>
     <Location ReferenceType="URI">http://myserver.mydomain.com/content/civil_war_photos.pdf</Location>
@@ -98,4 +98,5 @@ Lesson: links to one or more LearningStandardItems
     <LearningStandardItemRefId>141216334645D859E2CA255B1C3BBD91</LearningStandardItemRefId>
   </LearningStandards>
 </CurriculumStructure>
+```
 

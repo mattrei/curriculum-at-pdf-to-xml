@@ -119,4 +119,5 @@
 			<xsd:element name="ExtendedElement" type="ExtendedElementType" minOccurs="0" maxOccurs="unbounded"></xsd:element>
 		</xsd:sequence>
 	</xsd:complexType>
+	
 </xsd:schema>

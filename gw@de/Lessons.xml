@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lessons xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<Lesson RefId="309f69273a0e4f0da73ac5ec91ec9b6b">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Klimazonen Globus</Title>
+		<Description>Thematische Klimazonen Globenkarten \u00fcber unsere Erde</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>965910087b564602b006d869288746dc</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>d1e19348245649408fdab016e8c3f3f5</LearningResourceRefId>
+		</LearningResources>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>klimazonen-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+	<Lesson RefId="e81808aeb4ac41dd80591d5651cd04d4">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Bevölkerungsglobus</Title>
+		<Description>Weltweite Bevölkerungsverteilung</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>965910087b564602b006d869288746dc</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+			<LearningStandardItemRefId>497b1d31e05b4baeb5c058001aea51ce</LearningStandardItemRefId>
+		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>d1e19348245649408fdab016e8c3f3f5</LearningResourceRefId>
+		</LearningResources>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>bev-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+	<Lesson RefId="45368faa692843b59e9e2430e6bf6245">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Vulkane</Title>
+		<Description>Arten von Vulkanen entdecken</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>talformen</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+	<Lesson RefId="28f5a9c3e05a4c04a69ccbc0dd871a01">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Talformen</Title>
+		<Description>Talformen des Alpenkamms begehen</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+		</LearningStandards>
+	</Lesson>
+	<Lesson RefId="c4b17121b69543df8cd999a416035e3a">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Zeitzonen Globus</Title>
+		<Description>Zeitzonen aus Sicht eines Astronautens</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>fc2f416f5882440182a117196cefd7ab</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>zeitzonen-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="e354fb2b59c445d989563fbcff0e71ce">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Klimadiagramm Globus</Title>
+		<Description>Klimadiagramme weltweite vergleichen</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>klimadiagramm-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="ca103aea27794274b95077a6b03443c7">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Gletscher \u00d6sterreichs</Title>
+		<Description>\u00d6sterreichs wichtigste Gletscher mittels Drohne kennenlernen</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
+			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>gletscher-oesterreichs</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+
+	<Lesson RefId="069fb0a1e29b4ea7a8acc68c89046fff">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Topographische Karten</Title>
+		<Description>Topographische Karten im virtuellen Gel\u00e4nde verstehen lernen</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>topographische-karten</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+
+	<Lesson RefId="dce60c9790ac4647bf0b38df944b4960">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Wasserkreislauf</Title>
+		<Description>Das Modell des Wasserkrauslaufs am Beispiel Kolumbiens</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>wasserkreislauf</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+
+	<Lesson RefId="9cba350131774fa9ae580f80b21b2ef7">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Wind Globus</Title>
+		<Description>Globale Windbewegungen eindrucksvoll visualisiert</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>wind-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="eaa0e7f81ace435baed0d4f268b71646">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Pangaea Globus</Title>
+		<Description>Kontinentaldrift der letzten 150 Millionen Jahre im Schnelldurchlauf</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>pangaea-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="678546cfb03b44b3819c9700fddbbc02">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>L\u00e4nder Globus</Title>
+		<Description>L\u00e4ndergr\u00f6\u00dfen in einem Globus vergleichen</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>a322bff8c0dd4169b3deba65cd234218</LearningStandardItemRefId>
+			<LearningStandardItemRefId>497b1d31e05b4baeb5c058001aea51ce</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>laender-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="4e359c829e504ce8b79f8d98dc999ba7">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Vulkane</Title>
+		<Description>Arte von Vulkanen anhand von 3D Modellen erfassen</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>vulkane</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="5fad9f4b6f514445a2aa64712a175c36">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Tropisches Wetter</Title>
+		<Description>Das Wetter in den Tropen \u00fcber den Tag erleben</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>tropisches-wetter</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+
+	<Lesson RefId="8b0b305a991d4eb4baff3f2639802567">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Satellitenbilder Globus</Title>
+		<Description>Satellitenbilder der NASA Earth Observatory analysieren</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
+			<LearningStandardItemRefId>965910087b564602b006d869288746dc</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>satelliten-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+	<Lesson RefId="797782b727df43cdb442f4b3d33bd88b">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Kartenprojektionen</Title>
+		<Description>Kartenprojektionen mittels Flug in der Atmosph\u00e4re erleben</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>kartenprojektionen</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+
+
+	<Lesson RefId="84baec4306ea44829a2650aeaae5f304">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Geoid Globus</Title>
+		<Description>Die Erde ist weder Kugel noch ein Ellipsoid, sondern ein Geoid</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>geoid-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+	
+	
+	<Lesson RefId="c504edd16a4844fda944f2079f0480e1">
+		<SubjectArea>
+			<Code>GW</Code>
+		</SubjectArea>
+		<Title>Erdbeben Globus</Title>
+		<Description>Plattentektonik und Erbeben</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
+			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
+		</LearningStandards>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>erdbeben-globus</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+</Lessons>

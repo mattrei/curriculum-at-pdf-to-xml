@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningResources
+	xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<LearningResource
+		RefId="d1e19348245649408fdab016e8c3f3f5">
+		<Name>Bevölkerungsglobus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/2a892c5f-bd02-4744-8c74-46cebc461f77.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	<LearningResource
+		RefId="5aff2fd8b88f447bb9177e1c548671ae">
+		<Name>Klimazonenglobus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/ddb5804f-f19b-4ad0-9a3e-ee5d501dd1bd.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	<LearningResource
+		RefId="9b115cc28e3c4cfa8444a70520dfb551">
+		<Name>Satellitenbilderglobus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/04165ab3-668c-4b2b-85a5-ae60cda8f1ca.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+</LearningResources>

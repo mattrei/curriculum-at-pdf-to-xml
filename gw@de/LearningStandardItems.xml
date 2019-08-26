@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandardItems
+	xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<LearningStandardItem
+		RefId="124db9cb0c004563922b61e15f519bd8">
+		<ShortName>Ein Blick auf die Erde</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<Statements>
+			<Statement>Erwerben grundlegender Informationen über die Erde mit Globus, Karten, Atlas und Bildern.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>1</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="60c53b8891024c7ca7c7c8a054a5d880">
+		<ShortName>Wie Menschen in unterschiedlichen Gebieten der Erde leben
+			wirtschaften
+		</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.</Statement>
+			<Statement>Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich verändernde Techniken und Produktionsweisen anwenden.</Statement>
+			<Statement>Erkennen, wie Menschen mit Naturgefahren umgehen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>1</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="729e89ec9ced4d1c9ed3d0cc1f7cccb3">
+		<ShortName>Wie Menschen Rohstoffe und Energie gewinnen und nutzen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Erkennen, wie Rohstoffe und Nutzenergie gewonnen und zu den Verbraucherinnen und Verbrauchern gebracht werden.</Statement>
+			<Statement>Einsehen, dass Rohstoffe und Energieträger auf der Erde ungleichmäßig verteilt und begrenzt vorhanden sind und dass ihre Nutzung oft die Umwelt belastet.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>1</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="965910087b564602b006d869288746dc">
+		<ShortName>Ein erster Überblick</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>729e89ec9ced4d1c9ed3d0cc1f7cccb3</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Regionale bzw. zonale Einordnung der im Unterricht durchgenommenen Beispiele.</Statement>
+			<Statement>Erkennen der Grundstrukturen einfacher Wirtschaftsformen: von der agrarisch dominierten Selbstversorgerwirtschaft zu arbeitsteiligen Systemen.</Statement>
+			<Statement>Erfassen, dass es auf der Erde eine Regelhaftigkeit in der Anordnung klimatischer Erscheinungen gibt.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>1</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="a322bff8c0dd4169b3deba65cd234218">
+		<ShortName>Leben in Ballungsräumen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>965910087b564602b006d869288746dc</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Das Leben in Ballungsräumen und peripheren Räumen vergleichen.</Statement>
+			<Statement>Erfassen von Merkmalen, Aufgaben und Umweltproblemen in Ballungsräumen. Erkennen der Vernetzung zwischen Kernstadt und Umland.</Statement>
+			<Statement>Erwerben grundlegender Informationen über Städte mit Hilfe kartographischer Darstellungen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>2</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="71779d1481ed465eb78a31ebb2396488">
+		<ShortName>Gütererzeugung in gewerblichen und industriellen Betrieben</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>a322bff8c0dd4169b3deba65cd234218</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Gütererzeugung in gewerblichen und industriellen Betrieben</Statement>
+			<Statement>Erkennen, wie Güter in Betrieben verschiedener Art und Größe in unterschiedlichen Organisationsformen erzeugt werden.</Statement>
+			<Statement>Erfassen der Auswirkungen von Betrieben und Produktionsprozessen auf die Umwelt.</Statement>
+			<Statement>Verstehen, dass verschiedene Tätigkeiten in der Wirtschaft unterschiedliche Kenntnisse und Fähigkeiten voraussetzen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>2</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="d8dfb9ecb00543db867c815df734152c">
+		<ShortName>Der Dienstleistungsbereich</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>71779d1481ed465eb78a31ebb2396488</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Erkennen der Vielfalt des Dienstleistungsbereichs sowie Verständnis für seine zunehmende Bedeutung im Wirtschaftsleben.</Statement>
+			<Statement>Erfassen der wirtschaftlichen Bedeutung von Freizeit und Tourismus.</Statement>
+			<Statement>Erwerben grundlegender Informationen und Fertigkeiten für die richtige Wahl von Verkehrsmitteln.</Statement>
+			<Statement>Erfassen, wie Regionen durch Verkehrseinrichtungen unterschiedlich erschlossen und belastet werden.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>2</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="fc2f416f5882440182a117196cefd7ab">
+		<ShortName>Die Erde als Lebens- und Wirtschaftsraum des Menschen –
+			eine Zusammenschau</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>d8dfb9ecb00543db867c815df734152c</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Zusammenfassende Einordnung der bisher behandelten Beispiele in Staaten, Landschaftsgürtel und Wirtschaftszonen der Erde.</Statement>
+			<Statement>Erkennen, dass die Verteilung der Bevölkerung auf der Erde ungleichmäßig ist und dass es Gunst- und Ungunsträume gibt.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>2</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="31456e87c5df4d7f926749c1e4c6e1da">
+		<ShortName>Lebensraum Österreich</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>fc2f416f5882440182a117196cefd7ab</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Anhand von unterschiedlichen Karten, Luft- und Satellitenbildern die Eigenart österreichischer Landschaften erfassen.</Statement>
+			<Statement>Einige Ursachen und Folgen der Bevölkerungsverteilung und -entwicklung erfassen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>3</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="f0a5b8c89a6a429689a95a8027e8be3a">
+		<ShortName>Gestaltung des Lebensraums durch die Menschen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Die Lebenssituation in zentralen und peripheren Gebieten vergleichend erfassen.</Statement>
+			<Statement>Vergleichen unterschiedlicher Standortpotenziale zentraler und peripherer Gebiete an den Beispielen Verkehr, Infrastruktur, Versorgung und Umweltqualität.</Statement>
+			<Statement>Erfassen der Zusammenhänge von Wirtschaftsweise und Landnutzung.</Statement>
+			<Statement>Die Notwendigkeit der Raumordnung begreifen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>3</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="c6f0a8f4d2814f18a1396cf0e51aff28">
+		<ShortName>Einblicke in die Arbeitswelt</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>f0a5b8c89a6a429689a95a8027e8be3a</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Die Bedeutung der Berufswahl für die Lebensgestaltung erkennen und erste Wege der Berufsfindung nutzen.</Statement>
+			<Statement>Den stetigen Wandel der Arbeitswelt erkennen und daraus die Einsicht in die Notwendigkeit der ständigen Weiterbildung und Mobilität gewinnen.</Statement>
+			<Statement>Erkennen, dass in der Wirtschaft unterschiedliche Interessen aufeinander treffen und dass die Methoden des Interessenausgleichs einem Wandel unterworfen sind.</Statement>
+			<Statement>Erfassen subjektiver und gesamtwirtschaftlicher Probleme der Arbeitslosigkeit sowie nationaler und europäischer Lösungsansätze.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>3</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="b66c73d9f95e4bff8d55c8b150b06834">
+		<ShortName>Wirtschaften im privaten Haushalt</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>c6f0a8f4d2814f18a1396cf0e51aff28</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Erkennen der Notwendigkeit, im privaten Haushalt Ausgaben den finanziellen Möglichkeiten entsprechend zu planen.</Statement>
+			<Statement>Erfassen von Möglichkeiten für die Wahrung von Verbraucherinteressen in der Marktwirtschaft.</Statement>
+			<Statement>Erarbeiten der Vorteile und Herausforderungen einer gemeinsamen europäischen Währung für die Verbraucherinnen und Verbraucher.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>3</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="969696bbb5b346bf91610f66b3633a78">
+		<ShortName>Volkswirtschaftliche Zusammenhänge: Österreich – Europa</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>b66c73d9f95e4bff8d55c8b150b06834</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Erfassen grundlegender Zusammenhänge der Marktprozesse.</Statement>
+			<Statement>Erkennen der Aussagekraft wichtiger Kennzahlen zum Vergleich von Volkswirtschaften.</Statement>
+			<Statement>An aktuellen Beispielen erkennen, wie die öffentliche Hand die Wirtschaft beeinflusst und durch strukturpolitische Maßnahmen in Zusammenarbeit mit der Europäischen Union Regionalförderung betreibt.</Statement>
+			<Statement>Erkennen der weltweiten Verflechtung der österreichischen Wirtschaft und ihrer Stellung in der Europäischen Wirtschafts- und Währungsunion.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>3</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="b856267b0a514e0d8252a2da04810d93">
+		<ShortName>Gemeinsames Europa – vielfältiges Europa</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>969696bbb5b346bf91610f66b3633a78</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Die Vielfalt Europas – Landschaft, Kultur, Bevölkerung und Wirtschaft – erfassen.</Statement>
+			<Statement>Informationen über ausgewählte Regionen und Staaten gezielt sammeln und strukturiert auswerten.</Statement>
+			<Statement>Erkennen, dass manche Gegenwarts- und Zukunftsprobleme nur überregional zu lösen sind, um damit die Bereitschaft zur Auseinandersetzung mit gesamteuropäischen Fragen zu fördern.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>4</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="be2d41fbab8e4cac9c9743992cd7f01f">
+		<ShortName>Zentren und Peripherien in der Weltwirtschaft</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>b856267b0a514e0d8252a2da04810d93</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Die Bedeutung ausgewählter Staaten und Regionen für Weltpolitik und Weltwirtschaft erkennen.</Statement>
+			<Statement>Entwicklungsunterschiede zwischen Regionen wahrnehmen und Erklärungsansätze für deren Ursachen untersuchen.</Statement>
+			<Statement>Bereitschaft anbahnen, Maßnahmen der Entwicklungszusammenarbeit zu bewerten und zu unterstützen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>4</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="709e022c59c44138af6b0d828aaa8552">
+		<ShortName>Leben in einer vielfältigen Welt</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>be2d41fbab8e4cac9c9743992cd7f01f</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Erfassen der kulturellen, sozialen und politischen Differenzierung in unterschiedlichen Regionen der Erde.</Statement>
+			<Statement>Bereitschaft anbahnen, sich mit “dem Anderen” vorurteilsfrei auseinander zu setzen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>4</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="162615bc9b7842c4874af35d0e968df6">
+		<ShortName>Leben in der “Einen Welt” – Globalisierung</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>709e022c59c44138af6b0d828aaa8552</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Zunehmende Verflechtungen und Abhängigkeiten in der Weltwirtschaft und deren Auswirkungen auf die Gesellschaft erkennen.</Statement>
+			<Statement>Die Bedeutung der “neuen Mächtigen”, wie multinationaler Unternehmen, internationaler Organisationen und anderer “global players”, erfassen.</Statement>
+			<Statement>Die Verantwortung der Menschen für die “Eine Erde” erkennen.</Statement>
+			<Statement>Die Bedeutung weiterer Wege der Berufsfindung, der Aus- und Weiterbildung unter dem Aspekt weltwirtschaftlicher und technologischer Veränderungen erfassen.</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>4</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="54d63f0d384e4d73908557b4054d50b9">
+		<ShortName>Gliederungsprinzipien der Erde nach unterschiedlichen
+			Sichtweisen reflektieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<Statements>
+			<Statement>Gliederungsmöglichkeiten der Erde nach naturräumlichen, kulturellen, politischen und ökonomischen Merkmalen analysieren</Statement>
+			<Statement>Interessensgebundenheit von Gliederungen vergleichen</Statement>
+			<Statement>Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="d41eeee99e3d4fe9b46c1a83af744fff">
+		<ShortName>Geoökosysteme der Erde analysieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Klimadaten in Diagramme umsetzen</Statement>
+			<Statement>Klimagliederungen der Erde vergleichen und hinterfragen</Statement>
+			<Statement>Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren</Statement>
+			<Statement>Geoökosysteme und deren anthropogene Überformung erklären</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="497b1d31e05b4baeb5c058001aea51ce">
+		<ShortName>Bevölkerung und Gesellschaft diskutieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Die heutige und die mögliche zukünftige Verteilung der Weltbevölkerung darstellen</Statement>
+			<Statement>Dynamik der Weltbevölkerung analysieren</Statement>
+			<Statement>Ursachen und Auswirkungen der räumlichen und sozialen Mobilität in verschiedenen Gesellschaften diskutieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>ae4990cd6db34ab8a4f5ebed475823f8</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="082c618be5ec41d4a0ee5dcf31dbc236">
+		<ShortName>Die wirtschaftlichen Bedürfnisse der Menschen bewerten</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>497b1d31e05b4baeb5c058001aea51ce</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Bedeutung von Markt und Marktversagen erläutern</Statement>
+			<Statement>Wirtschaftliche Ungleichheiten auf der Erde darstellen</Statement>
+			<Statement>Ursachen wirtschaftlicher Ungleichheiten beurteilen (politisches Handeln, Ressourcen, weltwirtschaftliche Strukturen)</Statement>
+			<Statement>Die Produktion von Bedürfnissen hinsichtlich Konzepten der Nachhaltigkeit bewerten</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="08012b9c3f2f459a95c902ce0825dbf8">
+		<ShortName>Nutzungskonflikte an regionalen Beispielen reflektieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>082c618be5ec41d4a0ee5dcf31dbc236</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Regionale Konflikte über die Verfügbarkeit von knappen Ressourcen (Boden, Wasser, Bodenschätze, usw.) und dahinter stehende politische Interessen erklären</Statement>
+			<Statement>Unterschiedliche Folgen von Naturereignissen aufgrund des sozialen und ökonomischen Gefüges beurteilen</Statement>
+			<Statement>Tragfähigkeit der Einen Welt zukunftsorientiert reflektieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+	<LearningStandardItem
+		RefId="fc44d9a2d65048c1ac63c13bfc9949cb">
+		<ShortName>Raumbegriff und Strukturierung Europas diskutieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>08012b9c3f2f459a95c902ce0825dbf8</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Gliederung Europas nach naturräumlichen, gesellschaftlichen und ökonomischen Merkmalen vergleichen</Statement>
+			<Statement>Heterogene räumliche und ökonomische Auswirkungen des Integrationsprozesses der Europäischen Union untersuchen</Statement>
+			<Statement>Europa-Konzepte kritisch reflektieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>6</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="e9fe8be3658d4643880208be7d83cdef">
+		<ShortName>Konvergenzen und Divergenzen europäischer Gesellschaften
+			erörtern
+		</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>fc44d9a2d65048c1ac63c13bfc9949cb</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Gesellschaftliche und politische Entwicklungen im europäischen Kontext erläutern und deren Bedeutung für das eigene Leben hinterfragen</Statement>
+			<Statement>Migrationen in und nach Europa erörtern</Statement>
+			<Statement>Chancen der europäischen Bildungs- und Arbeitsmärkte für die eigene Lebens- und Berufsplanung erkennen</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>6</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="d5ef95c120e44b11aaa5ce068819a29d">
+		<ShortName>Außerwert-und Inwertsetzung von Produktionsgebieten
+			beurteilen
+		</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>e9fe8be3658d4643880208be7d83cdef</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Abhängigkeit landwirtschaftlicher Nutzung vom Naturraumpotential untersuchen</Statement>
+			<Statement>Strukturen und Wandel landwirtschaftlicher und industrieller Produktionsbedingungen in Europa vergleichen</Statement>
+			<Statement>Eignung von Räumen für die Tourismusentwicklung sowie Folgen der Erschließung beurteilen</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>6</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="3246c8446e1840669087fe7637bbfe77">
+		<ShortName>Wettbewerbspolitik und Regionalpolitik bewerten</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>d5ef95c120e44b11aaa5ce068819a29d</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Maßnahmen und Auswirkungen des europäischen Binnenmarktes erörtern</Statement>
+			<Statement>Räumliche Disparitäten theoretisch begründen und anhand ausgewählter Beispiele veranschaulichen</Statement>
+			<Statement>Träger, Instrumente, Funktionsweise und Ziele der Wettbewerbs- und Regionalpolitik erkennen und kritisch bewerten</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>6</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="5435d0e29773456fb66a95bcc904f8be">
+		<ShortName>Regionale Entwicklungspfade vergleichen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>3246c8446e1840669087fe7637bbfe77</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Anhand ausgewählter Beispiele die Veränderungen in Raum, Wirtschaft und Gesellschaft durch Beitritt und Mitgliedschaft in der Europäischen Union erörtern</Statement>
+			<Statement>Die Bedeutung grenzüberschreitender Zusammenarbeit für die Raumentwicklung erfassen</Statement>
+			<Statement>(National)Staatlichkeit und Bildung neuer europäischer Regionen hinsichtlich ihrer Zukunftsfähigkeit reflektieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>6</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+	<LearningStandardItem
+		RefId="250d3dd7c3e84015a7c289fca7afcd1c">
+		<ShortName>Veränderungen der geopolitischen Lage Österreichs erläutern</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>5435d0e29773456fb66a95bcc904f8be</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Qualitäten österreichischer Grenzen seit dem 20. Jahrhundert in ihren diversen Auswirkungen erläutern</Statement>
+			<Statement>Möglichkeiten grenzüberschreitender Regionalentwicklung unter dem Einfluss der europäischen Integration darstellen</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>7</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="760a6348128b4ad2a4c6fe9ccc2ee543">
+		<ShortName>Gesamtwirtschaftliche Leistungen und Probleme sowie
+			Wirtschafts-und Sozialpolitik erklären
+		</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>250d3dd7c3e84015a7c289fca7afcd1c</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Das Zustandekommen wirtschaftlicher Daten nachvollziehen und deren Aussagekraft beurteilen</Statement>
+			<Statement>Besonderheiten der österreichischen Wirtschafts- und Sozialpolitik darstellen</Statement>
+			<Statement>Gesamtwirtschaftliche Krisenmomente im Zusammenhang mit divergenten ökonomischen Theorien erklären</Statement>
+			<Statement>Besonderheiten der österreichischen Wirtschafts- und Sozialpolitik darstellen</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>1</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="f2e19a651a2540b7bb62076c2c670612">
+		<ShortName>Wirtschaftsstandort Österreich beurteilen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>760a6348128b4ad2a4c6fe9ccc2ee543</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Vor-und Nachteile des Wirtschaftsstandortes Österreich aus unterschiedlicher Sicht erarbeiten und mit anderen Staaten vergleichen</Statement>
+			<Statement>Entstehung regionaler Disparitäten analysieren</Statement>
+			<Statement>Auswirkungen regionaler Disparitäten auf das Alltagsleben und die Wirtschaft erläutern</Statement>
+			<Statement>Außenwirtschaft Österreichs in Zusammenhang mit europäischen und globalen Entwicklungen erörtern</Statement>
+			<Statement>Lebensqualität in Österreich diskutieren</Statement>
+			<Statement>WIKU: Industrie und Dienstleistung als wesentliche Basis der Wertschöpfung beschreiben und ihre jetzigen bzw. zukünftigen vernetzten Problemfelder beurteilen</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>7</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="f810ee8fa14e4bff8c3dbd67d4367710">
+		<ShortName>Naturräumliche Chancen und Risiken erörtern</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>f2e19a651a2540b7bb62076c2c670612</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Geoökologische Faktoren und Prozesse erklären</Statement>
+			<Statement>Naturräumliche Gegebenheiten als Chance der Regionalentwicklung erkennen</Statement>
+			<Statement>Naturräumliche sowie soziale Gegebenheiten und Prozesse als Ursachen ökologischer Probleme erörtern</Statement>
+			<Statement>Eigene Strategien für ökologisch nachhaltiges Handeln entwickeln</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>7</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="f9e6d90acfee4415adadb4d0164ca941">
+		<ShortName>Demographische Entwicklung und gesellschaftspolitische
+			Implikationen beurteilen
+		</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Entwicklung der österreichischen Bevölkerung darstellen</Statement>
+			<Statement>Mögliche soziale und ökonomische Folgen der Bevölkerungsentwicklung beurteilen</Statement>
+			<Statement>Herausforderungen multikultureller und alternder Bevölkerungen erörtern</Statement>
+			<Statement>Auswirkungen gesellschaftlicher Inklusions- und Exklusionsprozesse auf die Lebenssituationen ausgewählter Bevölkerungsgruppen bewerten</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>7</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="9aca5ef24669400e88b6dd8763ed30e7">
+		<ShortName>Unternehmen und Berufsfelder analysieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>f9e6d90acfee4415adadb4d0164ca941</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Produkt- und Geschäftsideen für ein eigenes Unternehmen erstellen</Statement>
+			<Statement>Schritte zu einer Unternehmensgründung beschreiben</Statement>
+			<Statement>Schritte zu einer Unternehmensgründung beschreiben</Statement>
+			<Statement>Eigene Möglichkeiten der Wahl von Bildungswegen und Beruf reflektieren</Statement>
+			<Statement>WIKU: Betriebliche Kennzahlen interpretieren</Statement>
+			<Statement>WIKU: Grundlagen betrieblichen Managements erfassen</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>7</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+	<LearningStandardItem
+		RefId="db3da712ba734c72928a69c7bb647cb5">
+		<ShortName>Chancen und Gefahren der Globalisierung erörtern</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>9aca5ef24669400e88b6dd8763ed30e7</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Den eigenen Standort bzw. die lokale Betroffenheit in Prozessen der Globalisierung in Bezug auf persönliche Chancen und Risiken analysieren</Statement>
+			<Statement>Globalen Wandel und seine ökonomischen, sozialen und ökologischen Ursachen und Wirkungen – auch hinsichtlich der eigenen Lebenssituation – erörtern</Statement>
+			<Statement>Auswirkungen ökonomischer Globalisierung diskutieren</Statement>
+			<Statement>Strategien individuell, betrieblich und gesellschaftlich nachhaltigen Handelns entwickeln</Statement>
+			<Statement>WIKU: Positionierungsmöglichkeiten von Unternehmen und Regionen in der globalisierten Wirtschaft analysieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>8</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="f883ef18fd86405f9c71feaab680950b">
+		<ShortName>Politische und ökonomische Systeme vergleichen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>db3da712ba734c72928a69c7bb647cb5</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Ursachen und Auswirkungen sozialer und ökonomischer Disparitäten auf globaler Ebene beurteilen</Statement>
+			<Statement>Formen, Möglichkeiten und Risiken der Entwicklungszusammenarbeit diskutieren</Statement>
+			<Statement>Unterschiedliche Wirtschafts- und Regulierungsmodelle vergleichen</Statement>
+			<Statement>Machtverhältnisse in politischen und ökonomischen Systemen analysieren</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>8</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="87f55efc365a4054acd8c6f31ebdce0e">
+		<ShortName>Politische Gestaltung von Räumen untersuchen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>f883ef18fd86405f9c71feaab680950b</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Ziele, Gestaltungsspielräume und Auswirkungen der Raumordnung erklären</Statement>
+			<Statement>Konstruktionen von Räumen und raumbezogenen Identitäten untersuchen</Statement>
+			<Statement>Bereitschaft entwickeln, zumindest auf der kommunalpolitischen Ebene gestaltend mitzuwirken</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>8</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="a4d1125a566847f5ac2b1ff26e317c6b">
+		<ShortName>Städte als Lebensräume und ökonomische Zentren untersuchen</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>87f55efc365a4054acd8c6f31ebdce0e</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Vielfalt der subjektiven Wirklichkeiten in Städten vergleichen</Statement>
+			<Statement>Soziale Differenzen in urbanen Räumen analysieren</Statement>
+			<Statement>Prozesse von Urbanität und Urbanisierung beschreiben</Statement>
+			<Statement>Bedeutung von Metropolen als Steuerungszentren der Wirtschaft beurteilen</Statement>
+			<Statement>Perspektiven und Beispiele für eine nachhaltige Urbanität entwickeln</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>8</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="ab9da0107fbb4b32bbcb6e2e6018b919">
+		<ShortName>WIKU: Geld und Währung analysieren</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>a4d1125a566847f5ac2b1ff26e317c6b</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Entwicklungen in internationalen Kapitalströmen und Finanzmärkten analysieren</Statement>
+			<Statement>Anlageformen nach Risiko und Chance bewerten</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>8</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>04d1a2b3ee884afaa7ccca211d372da6</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+</LearningStandardItems>
