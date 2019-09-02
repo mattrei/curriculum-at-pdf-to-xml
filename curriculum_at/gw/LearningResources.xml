@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningResources
+	xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<LearningResource
+		RefId="d1e19348245649408fdab016e8c3f3f5">
+		<Name>Bevölkerungs Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/2a892c5f-bd02-4744-8c74-46cebc461f77.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	<LearningResource
+		RefId="5aff2fd8b88f447bb9177e1c548671ae">
+		<Name>Klimazonen Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/ddb5804f-f19b-4ad0-9a3e-ee5d501dd1bd.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	<LearningResource
+		RefId="9b115cc28e3c4cfa8444a70520dfb551">
+		<Name>Satellitenbilder Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/04165ab3-668c-4b2b-85a5-ae60cda8f1ca.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	<LearningResource
+		RefId="22f40c79f9ae4984a647910157570c00">
+		<Name>Talformen (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/5bd8d0b4-f78d-4d22-9737-eddc255b1b46.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	<LearningResource
+		RefId="6ee6489ccf6b465f9e7d17cc7a7db71f">
+		<Name>Zeitzonen Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/5ab83c51-dd35-4e70-af73-a6bc1d96edd9.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+
+
+	<LearningResource
+		RefId="970c5b3b6f9848748c827a253ebd8394">
+		<Name>Wind Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/48c55911-27fc-42cd-b2ec-ff0254d179e5.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+
+	<LearningResource
+		RefId="c1ea2d5714c34646b1a0f595be5f0c44">
+		<Name>Pangaea Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/2fa3077a-99fd-4942-a281-a58f492fb15c.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+
+	<LearningResource
+		RefId="c1ea2d5714c34646b1a0f595be5f0c44">
+		<Name>Navigations Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/8c65bea9-674d-4c78-86a8-c91e527dddd3.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+
+	<LearningResource
+		RefId="b291eef044bb44b298d3a126bfd3cf01">
+		<Name>Länder Globus (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/437237a3-8a28-463a-af9c-c0aee711a3b1.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+
+	<LearningResource
+		RefId="a4d15990eca44c668e73a51add58e926">
+		<Name>Vulkane (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/6b5eb4f8-0dca-4b10-a610-364f42836c18.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+
+	<LearningResource
+		RefId="cc14a0b66edb4ecba54a738869de87bc">
+		<Name>Wasserkreislauf (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/85ef6ab9-a3f7-47cc-b7f7-84d91a1b2173.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+	
+	
+	<LearningResource
+		RefId="2e071b25b7b5452ca7ae635ef2bae342">
+		<Name>Tropisches Wetter (Arbeitsblatt)</Name>
+		<Location ReferenceType="URI">https://www.tutory.de/worksheet/d86faeef-c43f-4fa8-8ad1-2810463762cf.pdf</Location>
+		<Description>Arbeitsblatt</Description>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>GW</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<MediaTypes>
+			<MediaType>x-application/pdf</MediaType>
+		</MediaTypes>
+	</LearningResource>
+</LearningResources>

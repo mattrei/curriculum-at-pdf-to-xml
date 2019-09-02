@@ -7,14 +7,14 @@
 			<Code>GW</Code>
 		</SubjectArea>
 		<Title>Klimazonen Globus</Title>
-		<Description>Thematische Klimazonen Globenkarten \u00fcber unsere Erde</Description>
+		<Description>Thematische Klimazonen Globenkarten über unsere Erde</Description>
 		<LearningStandards>
 			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
 			<LearningStandardItemRefId>965910087b564602b006d869288746dc</LearningStandardItemRefId>
 			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
 		</LearningStandards>
 		<LearningResources>
-			<LearningResourceRefId>d1e19348245649408fdab016e8c3f3f5</LearningResourceRefId>
+			<LearningResourceRefId>5aff2fd8b88f447bb9177e1c548671ae</LearningResourceRefId>
 		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
@@ -47,23 +47,6 @@
 			</SIF_ExtendedElement>
 		</SIF_ExtendedElements>
 	</Lesson>
-	<Lesson RefId="45368faa692843b59e9e2430e6bf6245">
-		<SubjectArea>
-			<Code>GW</Code>
-		</SubjectArea>
-		<Title>Vulkane</Title>
-		<Description>Arten von Vulkanen entdecken</Description>
-		<LearningStandards>
-			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
-		</LearningStandards>
-		<SIF_ExtendedElements>
-			<SIF_ExtendedElement Name="vroodles">
-				<Vroodle xmlns="https://vroodl.es">
-					<UrlPath>talformen</UrlPath>
-				</Vroodle>
-			</SIF_ExtendedElement>
-		</SIF_ExtendedElements>
-	</Lesson>
 	<Lesson RefId="28f5a9c3e05a4c04a69ccbc0dd871a01">
 		<SubjectArea>
 			<Code>GW</Code>
@@ -74,6 +57,16 @@
 			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>22f40c79f9ae4984a647910157570c00</LearningResourceRefId>
+		</LearningResources>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>talformen</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
 	</Lesson>
 	<Lesson RefId="c4b17121b69543df8cd999a416035e3a">
 		<SubjectArea>
@@ -86,6 +79,9 @@
 			<LearningStandardItemRefId>fc2f416f5882440182a117196cefd7ab</LearningStandardItemRefId>
 			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>6ee6489ccf6b465f9e7d17cc7a7db71f</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -118,8 +114,8 @@
 		<SubjectArea>
 			<Code>GW</Code>
 		</SubjectArea>
-		<Title>Gletscher \u00d6sterreichs</Title>
-		<Description>\u00d6sterreichs wichtigste Gletscher mittels Drohne kennenlernen</Description>
+		<Title>Gletscher Österreichs</Title>
+		<Description>Österreichs wichtigste Gletscher mittels Drohne kennenlernen</Description>
 		<LearningStandards>
 			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
 			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
@@ -139,7 +135,7 @@
 			<Code>GW</Code>
 		</SubjectArea>
 		<Title>Topographische Karten</Title>
-		<Description>Topographische Karten im virtuellen Gel\u00e4nde verstehen lernen</Description>
+		<Description>Topographische Karten im virtuellen Gelände verstehen lernen</Description>
 		<LearningStandards>
 			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
 			<LearningStandardItemRefId>31456e87c5df4d7f926749c1e4c6e1da</LearningStandardItemRefId>
@@ -165,6 +161,9 @@
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>cc14a0b66edb4ecba54a738869de87bc</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -185,6 +184,9 @@
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>970c5b3b6f9848748c827a253ebd8394</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -205,6 +207,9 @@
 			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>c1ea2d5714c34646b1a0f595be5f0c44</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -218,13 +223,16 @@
 		<SubjectArea>
 			<Code>GW</Code>
 		</SubjectArea>
-		<Title>L\u00e4nder Globus</Title>
-		<Description>L\u00e4ndergr\u00f6\u00dfen in einem Globus vergleichen</Description>
+		<Title>Länder Globus</Title>
+		<Description>Ländergrößn in einem Globus vergleichen</Description>
 		<LearningStandards>
 			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
 			<LearningStandardItemRefId>a322bff8c0dd4169b3deba65cd234218</LearningStandardItemRefId>
 			<LearningStandardItemRefId>497b1d31e05b4baeb5c058001aea51ce</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>b291eef044bb44b298d3a126bfd3cf01</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -244,6 +252,9 @@
 			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>a4d15990eca44c668e73a51add58e926</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -258,11 +269,14 @@
 			<Code>GW</Code>
 		</SubjectArea>
 		<Title>Tropisches Wetter</Title>
-		<Description>Das Wetter in den Tropen \u00fcber den Tag erleben</Description>
+		<Description>Das Wetter in den Tropen über den Tag erleben</Description>
 		<LearningStandards>
 			<LearningStandardItemRefId>60c53b8891024c7ca7c7c8a054a5d880</LearningStandardItemRefId>
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>2e071b25b7b5452ca7ae635ef2bae342</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -287,6 +301,9 @@
 			<LearningStandardItemRefId>d41eeee99e3d4fe9b46c1a83af744fff</LearningStandardItemRefId>
 			<LearningStandardItemRefId>f810ee8fa14e4bff8c3dbd67d4367710</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>9b115cc28e3c4cfa8444a70520dfb551</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -300,12 +317,15 @@
 		<SubjectArea>
 			<Code>GW</Code>
 		</SubjectArea>
-		<Title>Kartenprojektionen</Title>
-		<Description>Kartenprojektionen mittels Flug in der Atmosph\u00e4re erleben</Description>
+		<Title>Navigations Globus</Title>
+		<Description>Kartenprojektionen mittels Flug in der Atmosphäre erleben</Description>
 		<LearningStandards>
 			<LearningStandardItemRefId>124db9cb0c004563922b61e15f519bd8</LearningStandardItemRefId>
 			<LearningStandardItemRefId>54d63f0d384e4d73908557b4054d50b9</LearningStandardItemRefId>
 		</LearningStandards>
+		<LearningResources>
+			<LearningResourceRefId>c1ea2d5714c34646b1a0f595be5f0c44</LearningResourceRefId>
+		</LearningResources>
 		<SIF_ExtendedElements>
 			<SIF_ExtendedElement Name="vroodles">
 				<Vroodle xmlns="https://vroodl.es">
@@ -334,8 +354,8 @@
 			</SIF_ExtendedElement>
 		</SIF_ExtendedElements>
 	</Lesson>
-	
-	
+
+
 	<Lesson RefId="c504edd16a4844fda944f2079f0480e1">
 		<SubjectArea>
 			<Code>GW</Code>

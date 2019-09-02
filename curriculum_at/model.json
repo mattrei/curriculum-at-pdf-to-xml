@@ -1,0 +1,2559 @@
+{
+  "LearningStandardDocuments": [
+    {
+      "@RefId": "ae4990cd6db34ab8a4f5ebed475823f8",
+      "Title": "Geographie und Wirtschaftskunde - AHS Unterstufe",
+      "Source": "Bildungsministerium",
+      "Organizations": {
+        "Organization": "Bildungsministerium"
+      },
+      "OrganizationContactPoint": null,
+      "SubjectAreas": {
+        "SubjectArea": {
+          "Code": "GW"
+        }
+      },
+      "DocumentStatus": null,
+      "Copyright": {
+        "Date": "2019-08-20",
+        "Holder": "Matthias Treitler"
+      },
+      "GradeLevels": {
+        "GradeLevel": [
+          {
+            "Code": "1"
+          },
+          {
+            "Code": "2"
+          },
+          {
+            "Code": "3"
+          },
+          {
+            "Code": "4"
+          }
+        ]
+      },
+      "LearningStandardItemRefId": "124db9cb0c004563922b61e15f519bd8",
+      "LearningStandardItems": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "60c53b8891024c7ca7c7c8a054a5d880",
+          "ShortName": "Wie Menschen in unterschiedlichen Gebieten der Erde leben\n\t\t\twirtschaften",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "124db9cb0c004563922b61e15f519bd8"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.",
+              "Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich ver\u00e4ndernde Techniken und Produktionsweisen anwenden.",
+              "Erkennen, wie Menschen mit Naturgefahren umgehen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "729e89ec9ced4d1c9ed3d0cc1f7cccb3",
+          "ShortName": "Wie Menschen Rohstoffe und Energie gewinnen und nutzen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "60c53b8891024c7ca7c7c8a054a5d880"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen, wie Rohstoffe und Nutzenergie gewonnen und zu den Verbraucherinnen und Verbrauchern gebracht werden.",
+              "Einsehen, dass Rohstoffe und Energietr\u00e4ger auf der Erde ungleichm\u00e4\u00dfig verteilt und begrenzt vorhanden sind und dass ihre Nutzung oft die Umwelt belastet."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "965910087b564602b006d869288746dc",
+          "ShortName": "Ein erster \u00dcberblick",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "729e89ec9ced4d1c9ed3d0cc1f7cccb3"
+          },
+          "Statements": {
+            "Statement": [
+              "Regionale bzw. zonale Einordnung der im Unterricht durchgenommenen Beispiele.",
+              "Erkennen der Grundstrukturen einfacher Wirtschaftsformen: von der agrarisch dominierten Selbstversorgerwirtschaft zu arbeitsteiligen Systemen.",
+              "Erfassen, dass es auf der Erde eine Regelhaftigkeit in der Anordnung klimatischer Erscheinungen gibt."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "a322bff8c0dd4169b3deba65cd234218",
+          "ShortName": "Leben in Ballungsr\u00e4umen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "965910087b564602b006d869288746dc"
+          },
+          "Statements": {
+            "Statement": [
+              "Das Leben in Ballungsr\u00e4umen und peripheren R\u00e4umen vergleichen.",
+              "Erfassen von Merkmalen, Aufgaben und Umweltproblemen in Ballungsr\u00e4umen. Erkennen der Vernetzung zwischen Kernstadt und Umland.",
+              "Erwerben grundlegender Informationen \u00fcber St\u00e4dte mit Hilfe kartographischer Darstellungen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "2"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "71779d1481ed465eb78a31ebb2396488",
+          "ShortName": "G\u00fctererzeugung in gewerblichen und industriellen Betrieben",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "a322bff8c0dd4169b3deba65cd234218"
+          },
+          "Statements": {
+            "Statement": [
+              "G\u00fctererzeugung in gewerblichen und industriellen Betrieben",
+              "Erkennen, wie G\u00fcter in Betrieben verschiedener Art und Gr\u00f6\u00dfe in unterschiedlichen Organisationsformen erzeugt werden.",
+              "Erfassen der Auswirkungen von Betrieben und Produktionsprozessen auf die Umwelt.",
+              "Verstehen, dass verschiedene T\u00e4tigkeiten in der Wirtschaft unterschiedliche Kenntnisse und F\u00e4higkeiten voraussetzen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "2"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "d8dfb9ecb00543db867c815df734152c",
+          "ShortName": "Der Dienstleistungsbereich",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "71779d1481ed465eb78a31ebb2396488"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen der Vielfalt des Dienstleistungsbereichs sowie Verst\u00e4ndnis f\u00fcr seine zunehmende Bedeutung im Wirtschaftsleben.",
+              "Erfassen der wirtschaftlichen Bedeutung von Freizeit und Tourismus.",
+              "Erwerben grundlegender Informationen und Fertigkeiten f\u00fcr die richtige Wahl von Verkehrsmitteln.",
+              "Erfassen, wie Regionen durch Verkehrseinrichtungen unterschiedlich erschlossen und belastet werden."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "2"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "fc2f416f5882440182a117196cefd7ab",
+          "ShortName": "Die Erde als Lebens- und Wirtschaftsraum des Menschen \u2013\n\t\t\teine Zusammenschau",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "d8dfb9ecb00543db867c815df734152c"
+          },
+          "Statements": {
+            "Statement": [
+              "Zusammenfassende Einordnung der bisher behandelten Beispiele in Staaten, Landschaftsg\u00fcrtel und Wirtschaftszonen der Erde.",
+              "Erkennen, dass die Verteilung der Bev\u00f6lkerung auf der Erde ungleichm\u00e4\u00dfig ist und dass es Gunst- und Ungunstr\u00e4ume gibt."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "2"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "31456e87c5df4d7f926749c1e4c6e1da",
+          "ShortName": "Lebensraum \u00d6sterreich",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "fc2f416f5882440182a117196cefd7ab"
+          },
+          "Statements": {
+            "Statement": [
+              "Anhand von unterschiedlichen Karten, Luft- und Satellitenbildern die Eigenart \u00f6sterreichischer Landschaften erfassen.",
+              "Einige Ursachen und Folgen der Bev\u00f6lkerungsverteilung und -entwicklung erfassen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "f0a5b8c89a6a429689a95a8027e8be3a",
+          "ShortName": "Gestaltung des Lebensraums durch die Menschen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "31456e87c5df4d7f926749c1e4c6e1da"
+          },
+          "Statements": {
+            "Statement": [
+              "Die Lebenssituation in zentralen und peripheren Gebieten vergleichend erfassen.",
+              "Vergleichen unterschiedlicher Standortpotenziale zentraler und peripherer Gebiete an den Beispielen Verkehr, Infrastruktur, Versorgung und Umweltqualit\u00e4t.",
+              "Erfassen der Zusammenh\u00e4nge von Wirtschaftsweise und Landnutzung.",
+              "Die Notwendigkeit der Raumordnung begreifen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "c6f0a8f4d2814f18a1396cf0e51aff28",
+          "ShortName": "Einblicke in die Arbeitswelt",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f0a5b8c89a6a429689a95a8027e8be3a"
+          },
+          "Statements": {
+            "Statement": [
+              "Die Bedeutung der Berufswahl f\u00fcr die Lebensgestaltung erkennen und erste Wege der Berufsfindung nutzen.",
+              "Den stetigen Wandel der Arbeitswelt erkennen und daraus die Einsicht in die Notwendigkeit der st\u00e4ndigen Weiterbildung und Mobilit\u00e4t gewinnen.",
+              "Erkennen, dass in der Wirtschaft unterschiedliche Interessen aufeinander treffen und dass die Methoden des Interessenausgleichs einem Wandel unterworfen sind.",
+              "Erfassen subjektiver und gesamtwirtschaftlicher Probleme der Arbeitslosigkeit sowie nationaler und europ\u00e4ischer L\u00f6sungsans\u00e4tze."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "b66c73d9f95e4bff8d55c8b150b06834",
+          "ShortName": "Wirtschaften im privaten Haushalt",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "c6f0a8f4d2814f18a1396cf0e51aff28"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen der Notwendigkeit, im privaten Haushalt Ausgaben den finanziellen M\u00f6glichkeiten entsprechend zu planen.",
+              "Erfassen von M\u00f6glichkeiten f\u00fcr die Wahrung von Verbraucherinteressen in der Marktwirtschaft.",
+              "Erarbeiten der Vorteile und Herausforderungen einer gemeinsamen europ\u00e4ischen W\u00e4hrung f\u00fcr die Verbraucherinnen und Verbraucher."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "969696bbb5b346bf91610f66b3633a78",
+          "ShortName": "Volkswirtschaftliche Zusammenh\u00e4nge: \u00d6sterreich \u2013 Europa",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "b66c73d9f95e4bff8d55c8b150b06834"
+          },
+          "Statements": {
+            "Statement": [
+              "Erfassen grundlegender Zusammenh\u00e4nge der Marktprozesse.",
+              "Erkennen der Aussagekraft wichtiger Kennzahlen zum Vergleich von Volkswirtschaften.",
+              "An aktuellen Beispielen erkennen, wie die \u00f6ffentliche Hand die Wirtschaft beeinflusst und durch strukturpolitische Ma\u00dfnahmen in Zusammenarbeit mit der Europ\u00e4ischen Union Regionalf\u00f6rderung betreibt.",
+              "Erkennen der weltweiten Verflechtung der \u00f6sterreichischen Wirtschaft und ihrer Stellung in der Europ\u00e4ischen Wirtschafts- und W\u00e4hrungsunion."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "b856267b0a514e0d8252a2da04810d93",
+          "ShortName": "Gemeinsames Europa \u2013 vielf\u00e4ltiges Europa",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "969696bbb5b346bf91610f66b3633a78"
+          },
+          "Statements": {
+            "Statement": [
+              "Die Vielfalt Europas \u2013 Landschaft, Kultur, Bev\u00f6lkerung und Wirtschaft \u2013 erfassen.",
+              "Informationen \u00fcber ausgew\u00e4hlte Regionen und Staaten gezielt sammeln und strukturiert auswerten.",
+              "Erkennen, dass manche Gegenwarts- und Zukunftsprobleme nur \u00fcberregional zu l\u00f6sen sind, um damit die Bereitschaft zur Auseinandersetzung mit gesamteurop\u00e4ischen Fragen zu f\u00f6rdern."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "4"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "be2d41fbab8e4cac9c9743992cd7f01f",
+          "ShortName": "Zentren und Peripherien in der Weltwirtschaft",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "b856267b0a514e0d8252a2da04810d93"
+          },
+          "Statements": {
+            "Statement": [
+              "Die Bedeutung ausgew\u00e4hlter Staaten und Regionen f\u00fcr Weltpolitik und Weltwirtschaft erkennen.",
+              "Entwicklungsunterschiede zwischen Regionen wahrnehmen und Erkl\u00e4rungsans\u00e4tze f\u00fcr deren Ursachen untersuchen.",
+              "Bereitschaft anbahnen, Ma\u00dfnahmen der Entwicklungszusammenarbeit zu bewerten und zu unterst\u00fctzen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "4"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "709e022c59c44138af6b0d828aaa8552",
+          "ShortName": "Leben in einer vielf\u00e4ltigen Welt",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "be2d41fbab8e4cac9c9743992cd7f01f"
+          },
+          "Statements": {
+            "Statement": [
+              "Erfassen der kulturellen, sozialen und politischen Differenzierung in unterschiedlichen Regionen der Erde.",
+              "Bereitschaft anbahnen, sich mit \u201cdem Anderen\u201d vorurteilsfrei auseinander zu setzen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "4"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "162615bc9b7842c4874af35d0e968df6",
+          "ShortName": "Leben in der \u201cEinen Welt\u201d \u2013 Globalisierung",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "709e022c59c44138af6b0d828aaa8552"
+          },
+          "Statements": {
+            "Statement": [
+              "Zunehmende Verflechtungen und Abh\u00e4ngigkeiten in der Weltwirtschaft und deren Auswirkungen auf die Gesellschaft erkennen.",
+              "Die Bedeutung der \u201cneuen M\u00e4chtigen\u201d, wie multinationaler Unternehmen, internationaler Organisationen und anderer \u201cglobal players\u201d, erfassen.",
+              "Die Verantwortung der Menschen f\u00fcr die \u201cEine Erde\u201d erkennen.",
+              "Die Bedeutung weiterer Wege der Berufsfindung, der Aus- und Weiterbildung unter dem Aspekt weltwirtschaftlicher und technologischer Ver\u00e4nderungen erfassen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "4"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        }
+      ]
+    },
+    {
+      "@RefId": "04d1a2b3ee884afaa7ccca211d372da6",
+      "Title": "Geographie und Wirtschaftskunde - AHS Oberstufe",
+      "Source": "Bildungsministerium",
+      "Organizations": {
+        "Organization": "Bildungsministerium"
+      },
+      "OrganizationContactPoint": null,
+      "SubjectAreas": {
+        "SubjectArea": {
+          "Code": "GW"
+        }
+      },
+      "DocumentStatus": null,
+      "Copyright": {
+        "Date": "2019-08-20",
+        "Holder": "Matthias Treitler"
+      },
+      "GradeLevels": {
+        "GradeLevel": [
+          {
+            "Code": "5"
+          },
+          {
+            "Code": "6"
+          },
+          {
+            "Code": "7"
+          },
+          {
+            "Code": "8"
+          }
+        ]
+      },
+      "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9",
+      "LearningStandardItems": [
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "497b1d31e05b4baeb5c058001aea51ce",
+          "ShortName": "Bev\u00f6lkerung und Gesellschaft diskutieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "d41eeee99e3d4fe9b46c1a83af744fff"
+          },
+          "Statements": {
+            "Statement": [
+              "Die heutige und die m\u00f6gliche zuk\u00fcnftige Verteilung der Weltbev\u00f6lkerung darstellen",
+              "Dynamik der Weltbev\u00f6lkerung analysieren",
+              "Ursachen und Auswirkungen der r\u00e4umlichen und sozialen Mobilit\u00e4t in verschiedenen Gesellschaften diskutieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "082c618be5ec41d4a0ee5dcf31dbc236",
+          "ShortName": "Die wirtschaftlichen Bed\u00fcrfnisse der Menschen bewerten",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "497b1d31e05b4baeb5c058001aea51ce"
+          },
+          "Statements": {
+            "Statement": [
+              "Bedeutung von Markt und Marktversagen erl\u00e4utern",
+              "Wirtschaftliche Ungleichheiten auf der Erde darstellen",
+              "Ursachen wirtschaftlicher Ungleichheiten beurteilen (politisches Handeln, Ressourcen, weltwirtschaftliche Strukturen)",
+              "Die Produktion von Bed\u00fcrfnissen hinsichtlich Konzepten der Nachhaltigkeit bewerten"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "08012b9c3f2f459a95c902ce0825dbf8",
+          "ShortName": "Nutzungskonflikte an regionalen Beispielen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "082c618be5ec41d4a0ee5dcf31dbc236"
+          },
+          "Statements": {
+            "Statement": [
+              "Regionale Konflikte \u00fcber die Verf\u00fcgbarkeit von knappen Ressourcen (Boden, Wasser, Bodensch\u00e4tze, usw.) und dahinter stehende politische Interessen erkl\u00e4ren",
+              "Unterschiedliche Folgen von Naturereignissen aufgrund des sozialen und \u00f6konomischen Gef\u00fcges beurteilen",
+              "Tragf\u00e4higkeit der Einen Welt zukunftsorientiert reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "fc44d9a2d65048c1ac63c13bfc9949cb",
+          "ShortName": "Raumbegriff und Strukturierung Europas diskutieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "08012b9c3f2f459a95c902ce0825dbf8"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederung Europas nach naturr\u00e4umlichen, gesellschaftlichen und \u00f6konomischen Merkmalen vergleichen",
+              "Heterogene r\u00e4umliche und \u00f6konomische Auswirkungen des Integrationsprozesses der Europ\u00e4ischen Union untersuchen",
+              "Europa-Konzepte kritisch reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "6"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "e9fe8be3658d4643880208be7d83cdef",
+          "ShortName": "Konvergenzen und Divergenzen europ\u00e4ischer Gesellschaften\n\t\t\ter\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "fc44d9a2d65048c1ac63c13bfc9949cb"
+          },
+          "Statements": {
+            "Statement": [
+              "Gesellschaftliche und politische Entwicklungen im europ\u00e4ischen Kontext erl\u00e4utern und deren Bedeutung f\u00fcr das eigene Leben hinterfragen",
+              "Migrationen in und nach Europa er\u00f6rtern",
+              "Chancen der europ\u00e4ischen Bildungs- und Arbeitsm\u00e4rkte f\u00fcr die eigene Lebens- und Berufsplanung erkennen"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "6"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "d5ef95c120e44b11aaa5ce068819a29d",
+          "ShortName": "Au\u00dferwert-und Inwertsetzung von Produktionsgebieten\n\t\t\tbeurteilen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "e9fe8be3658d4643880208be7d83cdef"
+          },
+          "Statements": {
+            "Statement": [
+              "Abh\u00e4ngigkeit landwirtschaftlicher Nutzung vom Naturraumpotential untersuchen",
+              "Strukturen und Wandel landwirtschaftlicher und industrieller Produktionsbedingungen in Europa vergleichen",
+              "Eignung von R\u00e4umen f\u00fcr die Tourismusentwicklung sowie Folgen der Erschlie\u00dfung beurteilen"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "6"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "3246c8446e1840669087fe7637bbfe77",
+          "ShortName": "Wettbewerbspolitik und Regionalpolitik bewerten",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "d5ef95c120e44b11aaa5ce068819a29d"
+          },
+          "Statements": {
+            "Statement": [
+              "Ma\u00dfnahmen und Auswirkungen des europ\u00e4ischen Binnenmarktes er\u00f6rtern",
+              "R\u00e4umliche Disparit\u00e4ten theoretisch begr\u00fcnden und anhand ausgew\u00e4hlter Beispiele veranschaulichen",
+              "Tr\u00e4ger, Instrumente, Funktionsweise und Ziele der Wettbewerbs- und Regionalpolitik erkennen und kritisch bewerten"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "6"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "5435d0e29773456fb66a95bcc904f8be",
+          "ShortName": "Regionale Entwicklungspfade vergleichen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "3246c8446e1840669087fe7637bbfe77"
+          },
+          "Statements": {
+            "Statement": [
+              "Anhand ausgew\u00e4hlter Beispiele die Ver\u00e4nderungen in Raum, Wirtschaft und Gesellschaft durch Beitritt und Mitgliedschaft in der Europ\u00e4ischen Union er\u00f6rtern",
+              "Die Bedeutung grenz\u00fcberschreitender Zusammenarbeit f\u00fcr die Raumentwicklung erfassen",
+              "(National)Staatlichkeit und Bildung neuer europ\u00e4ischer Regionen hinsichtlich ihrer Zukunftsf\u00e4higkeit reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "6"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "250d3dd7c3e84015a7c289fca7afcd1c",
+          "ShortName": "Ver\u00e4nderungen der geopolitischen Lage \u00d6sterreichs erl\u00e4utern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "5435d0e29773456fb66a95bcc904f8be"
+          },
+          "Statements": {
+            "Statement": [
+              "Qualit\u00e4ten \u00f6sterreichischer Grenzen seit dem 20. Jahrhundert in ihren diversen Auswirkungen erl\u00e4utern",
+              "M\u00f6glichkeiten grenz\u00fcberschreitender Regionalentwicklung unter dem Einfluss der europ\u00e4ischen Integration darstellen"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "760a6348128b4ad2a4c6fe9ccc2ee543",
+          "ShortName": "Gesamtwirtschaftliche Leistungen und Probleme sowie\n\t\t\tWirtschafts-und Sozialpolitik erkl\u00e4ren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "250d3dd7c3e84015a7c289fca7afcd1c"
+          },
+          "Statements": {
+            "Statement": [
+              "Das Zustandekommen wirtschaftlicher Daten nachvollziehen und deren Aussagekraft beurteilen",
+              "Besonderheiten der \u00f6sterreichischen Wirtschafts- und Sozialpolitik darstellen",
+              "Gesamtwirtschaftliche Krisenmomente im Zusammenhang mit divergenten \u00f6konomischen Theorien erkl\u00e4ren",
+              "Besonderheiten der \u00f6sterreichischen Wirtschafts- und Sozialpolitik darstellen"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f2e19a651a2540b7bb62076c2c670612",
+          "ShortName": "Wirtschaftsstandort \u00d6sterreich beurteilen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "760a6348128b4ad2a4c6fe9ccc2ee543"
+          },
+          "Statements": {
+            "Statement": [
+              "Vor-und Nachteile des Wirtschaftsstandortes \u00d6sterreich aus unterschiedlicher Sicht erarbeiten und mit anderen Staaten vergleichen",
+              "Entstehung regionaler Disparit\u00e4ten analysieren",
+              "Auswirkungen regionaler Disparit\u00e4ten auf das Alltagsleben und die Wirtschaft erl\u00e4utern",
+              "Au\u00dfenwirtschaft \u00d6sterreichs in Zusammenhang mit europ\u00e4ischen und globalen Entwicklungen er\u00f6rtern",
+              "Lebensqualit\u00e4t in \u00d6sterreich diskutieren",
+              "WIKU: Industrie und Dienstleistung als wesentliche Basis der Wertsch\u00f6pfung beschreiben und ihre jetzigen bzw. zuk\u00fcnftigen vernetzten Problemfelder beurteilen"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f810ee8fa14e4bff8c3dbd67d4367710",
+          "ShortName": "Naturr\u00e4umliche Chancen und Risiken er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f2e19a651a2540b7bb62076c2c670612"
+          },
+          "Statements": {
+            "Statement": [
+              "Geo\u00f6kologische Faktoren und Prozesse erkl\u00e4ren",
+              "Naturr\u00e4umliche Gegebenheiten als Chance der Regionalentwicklung erkennen",
+              "Naturr\u00e4umliche sowie soziale Gegebenheiten und Prozesse als Ursachen \u00f6kologischer Probleme er\u00f6rtern",
+              "Eigene Strategien f\u00fcr \u00f6kologisch nachhaltiges Handeln entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f9e6d90acfee4415adadb4d0164ca941",
+          "ShortName": "Demographische Entwicklung und gesellschaftspolitische\n\t\t\tImplikationen beurteilen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f810ee8fa14e4bff8c3dbd67d4367710"
+          },
+          "Statements": {
+            "Statement": [
+              "Entwicklung der \u00f6sterreichischen Bev\u00f6lkerung darstellen",
+              "M\u00f6gliche soziale und \u00f6konomische Folgen der Bev\u00f6lkerungsentwicklung beurteilen",
+              "Herausforderungen multikultureller und alternder Bev\u00f6lkerungen er\u00f6rtern",
+              "Auswirkungen gesellschaftlicher Inklusions- und Exklusionsprozesse auf die Lebenssituationen ausgew\u00e4hlter Bev\u00f6lkerungsgruppen bewerten"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "9aca5ef24669400e88b6dd8763ed30e7",
+          "ShortName": "Unternehmen und Berufsfelder analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f9e6d90acfee4415adadb4d0164ca941"
+          },
+          "Statements": {
+            "Statement": [
+              "Produkt- und Gesch\u00e4ftsideen f\u00fcr ein eigenes Unternehmen erstellen",
+              "Schritte zu einer Unternehmensgr\u00fcndung beschreiben",
+              "Schritte zu einer Unternehmensgr\u00fcndung beschreiben",
+              "Eigene M\u00f6glichkeiten der Wahl von Bildungswegen und Beruf reflektieren",
+              "WIKU: Betriebliche Kennzahlen interpretieren",
+              "WIKU: Grundlagen betrieblichen Managements erfassen"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "db3da712ba734c72928a69c7bb647cb5",
+          "ShortName": "Chancen und Gefahren der Globalisierung er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "9aca5ef24669400e88b6dd8763ed30e7"
+          },
+          "Statements": {
+            "Statement": [
+              "Den eigenen Standort bzw. die lokale Betroffenheit in Prozessen der Globalisierung in Bezug auf pers\u00f6nliche Chancen und Risiken analysieren",
+              "Globalen Wandel und seine \u00f6konomischen, sozialen und \u00f6kologischen Ursachen und Wirkungen \u2013 auch hinsichtlich der eigenen Lebenssituation \u2013 er\u00f6rtern",
+              "Auswirkungen \u00f6konomischer Globalisierung diskutieren",
+              "Strategien individuell, betrieblich und gesellschaftlich nachhaltigen Handelns entwickeln",
+              "WIKU: Positionierungsm\u00f6glichkeiten von Unternehmen und Regionen in der globalisierten Wirtschaft analysieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "8"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f883ef18fd86405f9c71feaab680950b",
+          "ShortName": "Politische und \u00f6konomische Systeme vergleichen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "db3da712ba734c72928a69c7bb647cb5"
+          },
+          "Statements": {
+            "Statement": [
+              "Ursachen und Auswirkungen sozialer und \u00f6konomischer Disparit\u00e4ten auf globaler Ebene beurteilen",
+              "Formen, M\u00f6glichkeiten und Risiken der Entwicklungszusammenarbeit diskutieren",
+              "Unterschiedliche Wirtschafts- und Regulierungsmodelle vergleichen",
+              "Machtverh\u00e4ltnisse in politischen und \u00f6konomischen Systemen analysieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "8"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "87f55efc365a4054acd8c6f31ebdce0e",
+          "ShortName": "Politische Gestaltung von R\u00e4umen untersuchen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f883ef18fd86405f9c71feaab680950b"
+          },
+          "Statements": {
+            "Statement": [
+              "Ziele, Gestaltungsspielr\u00e4ume und Auswirkungen der Raumordnung erkl\u00e4ren",
+              "Konstruktionen von R\u00e4umen und raumbezogenen Identit\u00e4ten untersuchen",
+              "Bereitschaft entwickeln, zumindest auf der kommunalpolitischen Ebene gestaltend mitzuwirken"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "8"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "a4d1125a566847f5ac2b1ff26e317c6b",
+          "ShortName": "St\u00e4dte als Lebensr\u00e4ume und \u00f6konomische Zentren untersuchen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "87f55efc365a4054acd8c6f31ebdce0e"
+          },
+          "Statements": {
+            "Statement": [
+              "Vielfalt der subjektiven Wirklichkeiten in St\u00e4dten vergleichen",
+              "Soziale Differenzen in urbanen R\u00e4umen analysieren",
+              "Prozesse von Urbanit\u00e4t und Urbanisierung beschreiben",
+              "Bedeutung von Metropolen als Steuerungszentren der Wirtschaft beurteilen",
+              "Perspektiven und Beispiele f\u00fcr eine nachhaltige Urbanit\u00e4t entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "8"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "ab9da0107fbb4b32bbcb6e2e6018b919",
+          "ShortName": "WIKU: Geld und W\u00e4hrung analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "a4d1125a566847f5ac2b1ff26e317c6b"
+          },
+          "Statements": {
+            "Statement": [
+              "Entwicklungen in internationalen Kapitalstr\u00f6men und Finanzm\u00e4rkten analysieren",
+              "Anlageformen nach Risiko und Chance bewerten"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "8"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ]
+    }
+  ],
+  "Lessons": [
+    {
+      "@RefId": "309f69273a0e4f0da73ac5ec91ec9b6b",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Klimazonen Globus",
+      "Description": "Thematische Klimazonen Globenkarten \u00fcber unsere Erde",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "965910087b564602b006d869288746dc",
+          "ShortName": "Ein erster \u00dcberblick",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "729e89ec9ced4d1c9ed3d0cc1f7cccb3"
+          },
+          "Statements": {
+            "Statement": [
+              "Regionale bzw. zonale Einordnung der im Unterricht durchgenommenen Beispiele.",
+              "Erkennen der Grundstrukturen einfacher Wirtschaftsformen: von der agrarisch dominierten Selbstversorgerwirtschaft zu arbeitsteiligen Systemen.",
+              "Erfassen, dass es auf der Erde eine Regelhaftigkeit in der Anordnung klimatischer Erscheinungen gibt."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "5aff2fd8b88f447bb9177e1c548671ae",
+          "Name": "Klimazonen Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/ddb5804f-f19b-4ad0-9a3e-ee5d501dd1bd.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "klimazonen-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "e81808aeb4ac41dd80591d5651cd04d4",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Bev\u00f6lkerungsglobus",
+      "Description": "Weltweite Bev\u00f6lkerungsverteilung",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "965910087b564602b006d869288746dc",
+          "ShortName": "Ein erster \u00dcberblick",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "729e89ec9ced4d1c9ed3d0cc1f7cccb3"
+          },
+          "Statements": {
+            "Statement": [
+              "Regionale bzw. zonale Einordnung der im Unterricht durchgenommenen Beispiele.",
+              "Erkennen der Grundstrukturen einfacher Wirtschaftsformen: von der agrarisch dominierten Selbstversorgerwirtschaft zu arbeitsteiligen Systemen.",
+              "Erfassen, dass es auf der Erde eine Regelhaftigkeit in der Anordnung klimatischer Erscheinungen gibt."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "497b1d31e05b4baeb5c058001aea51ce",
+          "ShortName": "Bev\u00f6lkerung und Gesellschaft diskutieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "d41eeee99e3d4fe9b46c1a83af744fff"
+          },
+          "Statements": {
+            "Statement": [
+              "Die heutige und die m\u00f6gliche zuk\u00fcnftige Verteilung der Weltbev\u00f6lkerung darstellen",
+              "Dynamik der Weltbev\u00f6lkerung analysieren",
+              "Ursachen und Auswirkungen der r\u00e4umlichen und sozialen Mobilit\u00e4t in verschiedenen Gesellschaften diskutieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "d1e19348245649408fdab016e8c3f3f5",
+          "Name": "Bev\u00f6lkerungs Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/2a892c5f-bd02-4744-8c74-46cebc461f77.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "bev-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "28f5a9c3e05a4c04a69ccbc0dd871a01",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Talformen",
+      "Description": "Talformen des Alpenkamms begehen",
+      "LearningStandards": [
+        {
+          "@RefId": "31456e87c5df4d7f926749c1e4c6e1da",
+          "ShortName": "Lebensraum \u00d6sterreich",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "fc2f416f5882440182a117196cefd7ab"
+          },
+          "Statements": {
+            "Statement": [
+              "Anhand von unterschiedlichen Karten, Luft- und Satellitenbildern die Eigenart \u00f6sterreichischer Landschaften erfassen.",
+              "Einige Ursachen und Folgen der Bev\u00f6lkerungsverteilung und -entwicklung erfassen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "22f40c79f9ae4984a647910157570c00",
+          "Name": "Talformen (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/5bd8d0b4-f78d-4d22-9737-eddc255b1b46.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "talformen"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "c4b17121b69543df8cd999a416035e3a",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Zeitzonen Globus",
+      "Description": "Zeitzonen aus Sicht eines Astronautens",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "fc2f416f5882440182a117196cefd7ab",
+          "ShortName": "Die Erde als Lebens- und Wirtschaftsraum des Menschen \u2013\n\t\t\teine Zusammenschau",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "d8dfb9ecb00543db867c815df734152c"
+          },
+          "Statements": {
+            "Statement": [
+              "Zusammenfassende Einordnung der bisher behandelten Beispiele in Staaten, Landschaftsg\u00fcrtel und Wirtschaftszonen der Erde.",
+              "Erkennen, dass die Verteilung der Bev\u00f6lkerung auf der Erde ungleichm\u00e4\u00dfig ist und dass es Gunst- und Ungunstr\u00e4ume gibt."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "2"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "6ee6489ccf6b465f9e7d17cc7a7db71f",
+          "Name": "Zeitzonen Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/5ab83c51-dd35-4e70-af73-a6bc1d96edd9.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "zeitzonen-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "e354fb2b59c445d989563fbcff0e71ce",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Klimadiagramm Globus",
+      "Description": "Klimadiagramme weltweite vergleichen",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "klimadiagramm-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "ca103aea27794274b95077a6b03443c7",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Gletscher \u00d6sterreichs",
+      "Description": "\u00d6sterreichs wichtigste Gletscher mittels Drohne kennenlernen",
+      "LearningStandards": [
+        {
+          "@RefId": "31456e87c5df4d7f926749c1e4c6e1da",
+          "ShortName": "Lebensraum \u00d6sterreich",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "fc2f416f5882440182a117196cefd7ab"
+          },
+          "Statements": {
+            "Statement": [
+              "Anhand von unterschiedlichen Karten, Luft- und Satellitenbildern die Eigenart \u00f6sterreichischer Landschaften erfassen.",
+              "Einige Ursachen und Folgen der Bev\u00f6lkerungsverteilung und -entwicklung erfassen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "f810ee8fa14e4bff8c3dbd67d4367710",
+          "ShortName": "Naturr\u00e4umliche Chancen und Risiken er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f2e19a651a2540b7bb62076c2c670612"
+          },
+          "Statements": {
+            "Statement": [
+              "Geo\u00f6kologische Faktoren und Prozesse erkl\u00e4ren",
+              "Naturr\u00e4umliche Gegebenheiten als Chance der Regionalentwicklung erkennen",
+              "Naturr\u00e4umliche sowie soziale Gegebenheiten und Prozesse als Ursachen \u00f6kologischer Probleme er\u00f6rtern",
+              "Eigene Strategien f\u00fcr \u00f6kologisch nachhaltiges Handeln entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "gletscher-oesterreichs"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "069fb0a1e29b4ea7a8acc68c89046fff",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Topographische Karten",
+      "Description": "Topographische Karten im virtuellen Gel\u00e4nde verstehen lernen",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "31456e87c5df4d7f926749c1e4c6e1da",
+          "ShortName": "Lebensraum \u00d6sterreich",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "fc2f416f5882440182a117196cefd7ab"
+          },
+          "Statements": {
+            "Statement": [
+              "Anhand von unterschiedlichen Karten, Luft- und Satellitenbildern die Eigenart \u00f6sterreichischer Landschaften erfassen.",
+              "Einige Ursachen und Folgen der Bev\u00f6lkerungsverteilung und -entwicklung erfassen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "3"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "topographische-karten"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "dce60c9790ac4647bf0b38df944b4960",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Wasserkreislauf",
+      "Description": "Das Modell des Wasserkrauslaufs am Beispiel Kolumbiens",
+      "LearningStandards": [
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f810ee8fa14e4bff8c3dbd67d4367710",
+          "ShortName": "Naturr\u00e4umliche Chancen und Risiken er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f2e19a651a2540b7bb62076c2c670612"
+          },
+          "Statements": {
+            "Statement": [
+              "Geo\u00f6kologische Faktoren und Prozesse erkl\u00e4ren",
+              "Naturr\u00e4umliche Gegebenheiten als Chance der Regionalentwicklung erkennen",
+              "Naturr\u00e4umliche sowie soziale Gegebenheiten und Prozesse als Ursachen \u00f6kologischer Probleme er\u00f6rtern",
+              "Eigene Strategien f\u00fcr \u00f6kologisch nachhaltiges Handeln entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "wasserkreislauf"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "9cba350131774fa9ae580f80b21b2ef7",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Wind Globus",
+      "Description": "Globale Windbewegungen eindrucksvoll visualisiert",
+      "LearningStandards": [
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f810ee8fa14e4bff8c3dbd67d4367710",
+          "ShortName": "Naturr\u00e4umliche Chancen und Risiken er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f2e19a651a2540b7bb62076c2c670612"
+          },
+          "Statements": {
+            "Statement": [
+              "Geo\u00f6kologische Faktoren und Prozesse erkl\u00e4ren",
+              "Naturr\u00e4umliche Gegebenheiten als Chance der Regionalentwicklung erkennen",
+              "Naturr\u00e4umliche sowie soziale Gegebenheiten und Prozesse als Ursachen \u00f6kologischer Probleme er\u00f6rtern",
+              "Eigene Strategien f\u00fcr \u00f6kologisch nachhaltiges Handeln entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "970c5b3b6f9848748c827a253ebd8394",
+          "Name": "Wind Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/48c55911-27fc-42cd-b2ec-ff0254d179e5.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "wind-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "eaa0e7f81ace435baed0d4f268b71646",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Pangaea Globus",
+      "Description": "Kontinentaldrift der letzten 150 Millionen Jahre im Schnelldurchlauf",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "c1ea2d5714c34646b1a0f595be5f0c44",
+          "Name": "Pangaea Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/2fa3077a-99fd-4942-a281-a58f492fb15c.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        },
+        {
+          "@RefId": "c1ea2d5714c34646b1a0f595be5f0c44",
+          "Name": "Navigations Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/8c65bea9-674d-4c78-86a8-c91e527dddd3.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "pangaea-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "678546cfb03b44b3819c9700fddbbc02",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "L\u00e4nder Globus",
+      "Description": "L\u00e4ndergr\u00f6\u00dfn in einem Globus vergleichen",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "a322bff8c0dd4169b3deba65cd234218",
+          "ShortName": "Leben in Ballungsr\u00e4umen",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "965910087b564602b006d869288746dc"
+          },
+          "Statements": {
+            "Statement": [
+              "Das Leben in Ballungsr\u00e4umen und peripheren R\u00e4umen vergleichen.",
+              "Erfassen von Merkmalen, Aufgaben und Umweltproblemen in Ballungsr\u00e4umen. Erkennen der Vernetzung zwischen Kernstadt und Umland.",
+              "Erwerben grundlegender Informationen \u00fcber St\u00e4dte mit Hilfe kartographischer Darstellungen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "2"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "497b1d31e05b4baeb5c058001aea51ce",
+          "ShortName": "Bev\u00f6lkerung und Gesellschaft diskutieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "d41eeee99e3d4fe9b46c1a83af744fff"
+          },
+          "Statements": {
+            "Statement": [
+              "Die heutige und die m\u00f6gliche zuk\u00fcnftige Verteilung der Weltbev\u00f6lkerung darstellen",
+              "Dynamik der Weltbev\u00f6lkerung analysieren",
+              "Ursachen und Auswirkungen der r\u00e4umlichen und sozialen Mobilit\u00e4t in verschiedenen Gesellschaften diskutieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "b291eef044bb44b298d3a126bfd3cf01",
+          "Name": "L\u00e4nder Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/437237a3-8a28-463a-af9c-c0aee711a3b1.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "laender-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "4e359c829e504ce8b79f8d98dc999ba7",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Vulkane",
+      "Description": "Arte von Vulkanen anhand von 3D Modellen erfassen",
+      "LearningStandards": [
+        {
+          "@RefId": "60c53b8891024c7ca7c7c8a054a5d880",
+          "ShortName": "Wie Menschen in unterschiedlichen Gebieten der Erde leben\n\t\t\twirtschaften",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "124db9cb0c004563922b61e15f519bd8"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.",
+              "Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich ver\u00e4ndernde Techniken und Produktionsweisen anwenden.",
+              "Erkennen, wie Menschen mit Naturgefahren umgehen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "a4d15990eca44c668e73a51add58e926",
+          "Name": "Vulkane (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/6b5eb4f8-0dca-4b10-a610-364f42836c18.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "vulkane"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "5fad9f4b6f514445a2aa64712a175c36",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Tropisches Wetter",
+      "Description": "Das Wetter in den Tropen \u00fcber den Tag erleben",
+      "LearningStandards": [
+        {
+          "@RefId": "60c53b8891024c7ca7c7c8a054a5d880",
+          "ShortName": "Wie Menschen in unterschiedlichen Gebieten der Erde leben\n\t\t\twirtschaften",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "124db9cb0c004563922b61e15f519bd8"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.",
+              "Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich ver\u00e4ndernde Techniken und Produktionsweisen anwenden.",
+              "Erkennen, wie Menschen mit Naturgefahren umgehen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "tropisches-wetter"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "8b0b305a991d4eb4baff3f2639802567",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Satellitenbilder Globus",
+      "Description": "Satellitenbilder der NASA Earth Observatory analysieren",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "60c53b8891024c7ca7c7c8a054a5d880",
+          "ShortName": "Wie Menschen in unterschiedlichen Gebieten der Erde leben\n\t\t\twirtschaften",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "124db9cb0c004563922b61e15f519bd8"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.",
+              "Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich ver\u00e4ndernde Techniken und Produktionsweisen anwenden.",
+              "Erkennen, wie Menschen mit Naturgefahren umgehen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "965910087b564602b006d869288746dc",
+          "ShortName": "Ein erster \u00dcberblick",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "729e89ec9ced4d1c9ed3d0cc1f7cccb3"
+          },
+          "Statements": {
+            "Statement": [
+              "Regionale bzw. zonale Einordnung der im Unterricht durchgenommenen Beispiele.",
+              "Erkennen der Grundstrukturen einfacher Wirtschaftsformen: von der agrarisch dominierten Selbstversorgerwirtschaft zu arbeitsteiligen Systemen.",
+              "Erfassen, dass es auf der Erde eine Regelhaftigkeit in der Anordnung klimatischer Erscheinungen gibt."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "d41eeee99e3d4fe9b46c1a83af744fff",
+          "ShortName": "Geo\u00f6kosysteme der Erde analysieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "54d63f0d384e4d73908557b4054d50b9"
+          },
+          "Statements": {
+            "Statement": [
+              "Klimadaten in Diagramme umsetzen",
+              "Klimagliederungen der Erde vergleichen und hinterfragen",
+              "Wechselwirkungen von Klima, Relief, Boden, Wasser und Vegetation analysieren",
+              "Geo\u00f6kosysteme und deren anthropogene \u00dcberformung erkl\u00e4ren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "f810ee8fa14e4bff8c3dbd67d4367710",
+          "ShortName": "Naturr\u00e4umliche Chancen und Risiken er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f2e19a651a2540b7bb62076c2c670612"
+          },
+          "Statements": {
+            "Statement": [
+              "Geo\u00f6kologische Faktoren und Prozesse erkl\u00e4ren",
+              "Naturr\u00e4umliche Gegebenheiten als Chance der Regionalentwicklung erkennen",
+              "Naturr\u00e4umliche sowie soziale Gegebenheiten und Prozesse als Ursachen \u00f6kologischer Probleme er\u00f6rtern",
+              "Eigene Strategien f\u00fcr \u00f6kologisch nachhaltiges Handeln entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "9b115cc28e3c4cfa8444a70520dfb551",
+          "Name": "Satellitenbilder Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/04165ab3-668c-4b2b-85a5-ae60cda8f1ca.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "satelliten-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "797782b727df43cdb442f4b3d33bd88b",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Navigations Globus",
+      "Description": "Kartenprojektionen mittels Flug in der Atmosph\u00e4re erleben",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "LearningResources": [
+        {
+          "@RefId": "c1ea2d5714c34646b1a0f595be5f0c44",
+          "Name": "Pangaea Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/2fa3077a-99fd-4942-a281-a58f492fb15c.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        },
+        {
+          "@RefId": "c1ea2d5714c34646b1a0f595be5f0c44",
+          "Name": "Navigations Globus (Arbeitsblatt)",
+          "Location": {
+            "@ReferenceType": "URI",
+            "#text": "https://www.tutory.de/worksheet/8c65bea9-674d-4c78-86a8-c91e527dddd3.pdf"
+          },
+          "Description": "Arbeitsblatt",
+          "SubjectAreas": {
+            "SubjectArea": {
+              "Code": "GW"
+            }
+          },
+          "MediaTypes": {
+            "MediaType": "x-application/pdf"
+          }
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "kartenprojektionen"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "84baec4306ea44829a2650aeaae5f304",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Geoid Globus",
+      "Description": "Die Erde ist weder Kugel noch ein Ellipsoid, sondern ein Geoid",
+      "LearningStandards": [
+        {
+          "@RefId": "124db9cb0c004563922b61e15f519bd8",
+          "ShortName": "Ein Blick auf die Erde",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": "Erwerben grundlegender Informationen \u00fcber die Erde mit Globus, Karten, Atlas und Bildern."
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "geoid-globus"
+          }
+        }
+      }
+    },
+    {
+      "@RefId": "c504edd16a4844fda944f2079f0480e1",
+      "SubjectArea": {
+        "Code": "GW"
+      },
+      "Title": "Erdbeben Globus",
+      "Description": "Plattentektonik und Erbeben",
+      "LearningStandards": [
+        {
+          "@RefId": "54d63f0d384e4d73908557b4054d50b9",
+          "ShortName": "Gliederungsprinzipien der Erde nach unterschiedlichen\n\t\t\tSichtweisen reflektieren",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "Statements": {
+            "Statement": [
+              "Gliederungsm\u00f6glichkeiten der Erde nach naturr\u00e4umlichen, kulturellen, politischen und \u00f6konomischen Merkmalen analysieren",
+              "Interessensgebundenheit von Gliederungen vergleichen",
+              "Geographien durch Zonierungen/Gliederungen/Grenzziehungen machen und reflektieren"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "5"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        },
+        {
+          "@RefId": "60c53b8891024c7ca7c7c8a054a5d880",
+          "ShortName": "Wie Menschen in unterschiedlichen Gebieten der Erde leben\n\t\t\twirtschaften",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "124db9cb0c004563922b61e15f519bd8"
+          },
+          "Statements": {
+            "Statement": [
+              "Erkennen, dass sich Menschen in ihren Lebens- und Konsumgewohnheiten auf regionale und kulturelle Voraussetzungen einstellen und dass die Lebensweise einem Wandel unterliegt.",
+              "Erkennen, wie einfache Wirtschaftsformen von Natur- und Gesellschaftsbedingungen beeinflusst werden, und erfassen, dass Menschen unterschiedliche, sich ver\u00e4ndernde Techniken und Produktionsweisen anwenden.",
+              "Erkennen, wie Menschen mit Naturgefahren umgehen."
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "1"
+            }
+          },
+          "LearningStandardDocumentRefId": "ae4990cd6db34ab8a4f5ebed475823f8"
+        },
+        {
+          "@RefId": "f810ee8fa14e4bff8c3dbd67d4367710",
+          "ShortName": "Naturr\u00e4umliche Chancen und Risiken er\u00f6rtern",
+          "StandardHierarchyLevel": {
+            "Number": "1",
+            "Description": "Indicator"
+          },
+          "PredecessorItems": {
+            "LearningStandardItemRefId": "f2e19a651a2540b7bb62076c2c670612"
+          },
+          "Statements": {
+            "Statement": [
+              "Geo\u00f6kologische Faktoren und Prozesse erkl\u00e4ren",
+              "Naturr\u00e4umliche Gegebenheiten als Chance der Regionalentwicklung erkennen",
+              "Naturr\u00e4umliche sowie soziale Gegebenheiten und Prozesse als Ursachen \u00f6kologischer Probleme er\u00f6rtern",
+              "Eigene Strategien f\u00fcr \u00f6kologisch nachhaltiges Handeln entwickeln"
+            ]
+          },
+          "GradeLevels": {
+            "GradeLevel": {
+              "Code": "7"
+            }
+          },
+          "LearningStandardDocumentRefId": "04d1a2b3ee884afaa7ccca211d372da6"
+        }
+      ],
+      "SIF_ExtendedElements": {
+        "SIF_ExtendedElement": {
+          "@Name": "vroodles",
+          "Vroodle": {
+            "@xmlns": "https://vroodl.es",
+            "UrlPath": "erdbeben-globus"
+          }
+        }
+      }
+    }
+  ]
+}

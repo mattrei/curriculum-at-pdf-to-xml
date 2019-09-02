@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandardItems
+	xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<LearningStandardItem
+		RefId="71d275b57e71447093156c80810850a4">
+		<ShortName>Informatik, Mensch und Gesellschaft</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<Statements>
+			<Statement>Die Bedeutung von Informatik in der Gesellschaft beschreiben, die Auswirkungen auf die Einzelnen und die Gesellschaft einschätzen und Vor- und Nachteile an konkreten Beispielen abwägen können</Statement>
+			<Statement>Maßnahmen und rechtliche Grundlagen im Zusammenhang mit Datensicherheit, Datenschutz und Urheberrecht kennen und anwenden können</Statement>
+			<Statement>Die Entwicklung der Informatik beschreiben und bewerten können</Statement>
+			<Statement>Informatikberufe und Einsatzmöglichkeiten der Informatik in verschiedenen Berufsfeldern benennen und einschätzen können</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>b4531b3f5fd04b90b0b7d938798537ba</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+	<LearningStandardItem
+		RefId="22d056f5d3cc4326b568ddf5608d29b0">
+		<ShortName>Informatiksysteme</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>71d275b57e71447093156c80810850a4</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Den Aufbau von digitalen Endgeräten beschreiben und erklären können</Statement>
+			<Statement>Die Funktionsweise von Informatiksystemen erklären können</Statement>
+			<Statement>Grundlagen von Betriebssystemen erklären, eine graphische Oberfläche und Dienstprogramme bedienen können</Statement>
+			<Statement>Grundlagen der Vernetzung von Computern beschreiben und lokale und globale Computernetzwerke nutzen können</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>b4531b3f5fd04b90b0b7d938798537ba</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+	<LearningStandardItem
+		RefId="b9eedeb4714d4be4b558439349776a53">
+		<ShortName>Angewandte Informatik</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>22d056f5d3cc4326b568ddf5608d29b0</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Standardsoftware zur Kommunikation und Dokumentation sowie zur Erstellung, Publikation und multimedialen Präsentation eigener Arbeiten einsetzen können</Statement>
+			<Statement>Standardsoftware für Kalkulationen und zum Visualisieren anwenden können</Statement>
+			<Statement>Informationsquellen erschließen, Inhalte systematisieren, strukturieren, bewerten, verarbeiten und unterschiedliche Informationsdarstellungen verwenden können</Statement>
+			<Statement>Digitale Systeme zum Informationsaustausch, zur Unterstützung der Unterrichtsorganisation und zum Lernen auch in kommunikativen und kooperativen Formen verwenden können</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>b4531b3f5fd04b90b0b7d938798537ba</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+	<LearningStandardItem
+		RefId="f548ba638b094112a38386bc80f4a795">
+		<ShortName>Praktische Informatik</ShortName>
+		<StandardHierarchyLevel>
+			<Number>1</Number>
+			<Description>Indicator</Description>
+		</StandardHierarchyLevel>
+		<PredecessorItems>
+			<LearningStandardItemRefId>b9eedeb4714d4be4b558439349776a53</LearningStandardItemRefId>
+		</PredecessorItems>
+		<Statements>
+			<Statement>Begriffe und Konzepte der Informatik verstehen und Methoden und Arbeitsweisen anwenden können</Statement>
+			<Statement>Algorithmen erklären, entwerfen, darstellen und in einer Programmiersprache implementieren können</Statement>
+			<Statement>Grundprinzipien von Automaten, Algorithmen, Datenstrukturen und Programmen erklären können</Statement>
+			<Statement>Datenbanken benutzen und einfache Datenmodelle entwerfen können</Statement>
+		</Statements>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardDocumentRefId>b4531b3f5fd04b90b0b7d938798537ba</LearningStandardDocumentRefId>
+	</LearningStandardItem>
+
+</LearningStandardItems>

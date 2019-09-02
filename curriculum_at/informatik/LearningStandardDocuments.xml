@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LearningStandardDocuments
+	xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<LearningStandardDocument
+		RefId="b4531b3f5fd04b90b0b7d938798537ba">
+		<Title>Informatik - AHS Oberstufe</Title>
+		<Source>Bildungsministerium</Source>
+		<Organizations>
+			<Organization>Bildungsministerium</Organization>
+		</Organizations>
+		<OrganizationContactPoint>
+	</OrganizationContactPoint>
+		<SubjectAreas>
+			<SubjectArea>
+				<Code>Informatik</Code>
+			</SubjectArea>
+		</SubjectAreas>
+		<DocumentStatus></DocumentStatus>
+		<Copyright>
+			<Date>2019-08-20</Date>
+			<Holder>Matthias Treitler</Holder>
+		</Copyright>
+		<GradeLevels>
+			<GradeLevel>
+				<Code>5</Code>
+			</GradeLevel>
+		</GradeLevels>
+		<LearningStandardItemRefId>71d275b57e71447093156c80810850a4</LearningStandardItemRefId>
+	</LearningStandardDocument>
+
+</LearningStandardDocuments>

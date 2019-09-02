@@ -1,38 +1,37 @@
 import copy
 import os
 import sys
+from os import listdir
+from os.path import isfile, join
 
 import xmltodict
 import json
 
-FOLDER = sys.argv[1]
 
-STANDARDS = FOLDER + os.sep + 'LearningStandardDocuments.xml'
-LESSONS = FOLDER + os.sep + 'Lessons.xml'
-ITEMS = FOLDER + os.sep + 'LearningStandardItems.xml'
-RESOURCES = FOLDER + os.sep + 'LearningResources.xml'
-
-def read_xmls():
+def read_xmls(folder):
+    STANDARDS = folder + os.sep + 'LearningStandardDocuments.xml'
+    LESSONS = folder + os.sep + 'Lessons.xml'
+    ITEMS = folder + os.sep + 'LearningStandardItems.xml'
+    RESOURCES = folder + os.sep + 'LearningResources.xml'
     standards = {}
     lessons = {}
     items = {}
-    ressources = {}
+    resources = {}
 
-    print('Reading LearningStandardDocuments from {}'.format(STANDARDS))
-    with open(STANDARDS, 'r') as f:
-        standards = xmltodict.parse(f.read())
+    try:
+        with open(STANDARDS, 'r') as f:
+            standards = xmltodict.parse(f.read())
 
-    print('Reading Lessons from {}'.format(LESSONS))
-    with open(LESSONS, 'r') as f:
-        lessons = xmltodict.parse(f.read())
+        with open(LESSONS, 'r') as f:
+            lessons = xmltodict.parse(f.read())
 
-    print('Reading LearningStandardItems from {}'.format(ITEMS))
-    with open(ITEMS, 'r') as f:
-        items = xmltodict.parse(f.read())
+        with open(ITEMS, 'r') as f:
+            items = xmltodict.parse(f.read())
 
-    print('Reading LearningResources from {}'.format(RESOURCES))
-    with open(RESOURCES, 'r') as f:
-        resources = xmltodict.parse(f.read())
+        with open(RESOURCES, 'r') as f:
+            resources = xmltodict.parse(f.read())
+    except FileNotFoundError as e:
+        print('Error in ' + folder)
 
     return (standards, lessons, items, resources)
 
@@ -41,7 +40,7 @@ def create_lessons(lessons_obj, items, resources):
     lessons = copy.deepcopy(lessons_obj)
 
     for lesson in lessons['Lessons']['Lesson']:
-        print("\nLessons {}".format(lesson['Title']))
+        #print("\nLessons {}".format(lesson['Title']))
 
         try:
             litems = []
@@ -70,7 +69,7 @@ def create_standards(standards_obj, items):
     standards = copy.deepcopy(standards_obj)
 
     for standard in standards['LearningStandardDocuments']['LearningStandardDocument']:
-        print("\nStandard {}".format(standard['Title']))
+        #print("\nStandard {}".format(standard['Title']))
 
         refid = standard['LearningStandardItemRefId']
         sitems = []
@@ -102,12 +101,26 @@ def get_list(obj):
 
 if __name__ == '__main__':
 
-    (standards, lessons, items, resources) = read_xmls()
+    model = { 
+            'LearningStandardDocuments': [],
+            'Lessons': [] 
+            }
 
-    new_lessons = create_lessons(lessons, items, resources)
-    with open(sys.argv[1] + '-lessons.json', 'w') as f:
-        json.dump(new_lessons, f, indent=2)
+    p = '.'
+    folders = [f for f in listdir(p) if not isfile(join(p, f)) and f != 'schema']
 
-    new_standards = create_standards(standards, items)
-    with open(sys.argv[1] + '-standards.json', 'w') as f:
-        json.dump(new_standards, f, indent=2)
+    for folder in folders:
+        print('reading ' + folder)
+        try:
+            (standards, lessons, items, resources) = read_xmls(folder)
+            new_lessons = create_lessons(lessons, items, resources)
+            new_standards = create_standards(standards, items)
+
+            model['Lessons'].extend(new_lessons['Lessons']['Lesson'])
+            model['LearningStandardDocuments'].extend(new_standards['LearningStandardDocuments']['LearningStandardDocument'])
+        except Exception as e:
+            print ('error processing')
+            print(e)
+
+    with open('model.json', 'w') as f:
+        json.dump(model, f, indent=2)

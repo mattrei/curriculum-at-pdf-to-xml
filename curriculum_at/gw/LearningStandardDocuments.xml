@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
 	<LearningStandardDocument
 		RefId="ae4990cd6db34ab8a4f5ebed475823f8">
-		<Title>Geographie und Wirtschaftskunde</Title>
+		<Title>Geographie und Wirtschaftskunde - AHS Unterstufe</Title>
 		<Source>Bildungsministerium</Source>
 		<Organizations>
 			<Organization>Bildungsministerium</Organization>
@@ -40,7 +40,7 @@
 	</LearningStandardDocument>
 	<LearningStandardDocument
 		RefId="04d1a2b3ee884afaa7ccca211d372da6">
-		<Title>Geographie und Wirtschaftskunde</Title>
+		<Title>Geographie und Wirtschaftskunde - AHS Oberstufe</Title>
 		<Source>Bildungsministerium</Source>
 		<Organizations>
 			<Organization>Bildungsministerium</Organization>

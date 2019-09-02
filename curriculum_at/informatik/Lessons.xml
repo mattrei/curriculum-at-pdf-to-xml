@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lessons xmlns="http://www.sifassociation.org/datamodel/na/4.x"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sifassociation.org/datamodel/na/4.x ../schema/SIF_Message.xsd ">
+	<Lesson RefId="b7687bc35b6e46119caac51057add7e2">
+		<SubjectArea>
+			<Code>Informatik</Code>
+		</SubjectArea>
+		<Title>Virtual Reality with Scratch Coding</Title>
+		<Description>Immersive 3D Umgebung mit Scratch coden</Description>
+		<LearningStandards>
+			<LearningStandardItemRefId>22d056f5d3cc4326b568ddf5608d29b0</LearningStandardItemRefId>
+			<LearningStandardItemRefId>f548ba638b094112a38386bc80f4a795</LearningStandardItemRefId>
+		</LearningStandards>
+		<LearningResources>
+		</LearningResources>
+		<SIF_ExtendedElements>
+			<SIF_ExtendedElement Name="vroodles">
+				<Vroodle xmlns="https://vroodl.es">
+					<UrlPath>blockly-coding-3d</UrlPath>
+				</Vroodle>
+			</SIF_ExtendedElement>
+		</SIF_ExtendedElements>
+	</Lesson>
+</Lessons>
